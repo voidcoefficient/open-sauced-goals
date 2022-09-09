@@ -1,39 +1,69 @@
 [
   {
+    "full_name": "master-co/css",
+    "stargazers_count": 950,
+    "open_issues_count": 9,
+    "forks_count": 24
+  },
+  {
+    "full_name": "planetscale/database-js",
+    "stargazers_count": 171,
+    "open_issues_count": 3,
+    "forks_count": 4
+  },
+  {
+    "full_name": "nerdypepper/scientifica",
+    "stargazers_count": 1301,
+    "open_issues_count": 11,
+    "forks_count": 22
+  },
+  {
+    "full_name": "IdreesInc/Monocraft",
+    "stargazers_count": 3031,
+    "open_issues_count": 21,
+    "forks_count": 31
+  },
+  {
+    "full_name": "c-ehrlich/m3teor-template",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "happykit/flags",
-    "stargazers_count": 712,
+    "stargazers_count": 731,
     "open_issues_count": 4,
     "forks_count": 3
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 30382,
-    "open_issues_count": 11,
-    "forks_count": 1493
+    "stargazers_count": 30441,
+    "open_issues_count": 10,
+    "forks_count": 1500
   },
   {
     "full_name": "minsk-dev/giro",
     "stargazers_count": 3,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "htmlstreamofficial/preline",
-    "stargazers_count": 934,
+    "stargazers_count": 940,
     "open_issues_count": 4,
     "forks_count": 28
   },
   {
     "full_name": "pomber/stargazer",
-    "stargazers_count": 635,
+    "stargazers_count": 736,
     "open_issues_count": 6,
-    "forks_count": 148
+    "forks_count": 162
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 203,
-    "open_issues_count": 3,
-    "forks_count": 5
+    "stargazers_count": 208,
+    "open_issues_count": 4,
+    "forks_count": 4
   },
   {
     "full_name": "ranisalt/faster-computer-guide",
@@ -49,61 +79,61 @@
   },
   {
     "full_name": "valeriansaliou/sonic",
-    "stargazers_count": 13650,
+    "stargazers_count": 13665,
     "open_issues_count": 58,
-    "forks_count": 467
+    "forks_count": 468
   },
   {
     "full_name": "shelljs/shelljs",
-    "stargazers_count": 13459,
+    "stargazers_count": 13462,
     "open_issues_count": 100,
     "forks_count": 735
   },
   {
     "full_name": "stedolan/jq",
-    "stargazers_count": 22958,
-    "open_issues_count": 755,
-    "forks_count": 1343
+    "stargazers_count": 22982,
+    "open_issues_count": 757,
+    "forks_count": 1346
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 25353,
-    "open_issues_count": 2273,
-    "forks_count": 906
+    "stargazers_count": 25421,
+    "open_issues_count": 2257,
+    "forks_count": 908
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 5953,
-    "open_issues_count": 8,
-    "forks_count": 248
+    "stargazers_count": 6040,
+    "open_issues_count": 6,
+    "forks_count": 256
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 12131,
-    "open_issues_count": 63,
-    "forks_count": 378
+    "stargazers_count": 12228,
+    "open_issues_count": 69,
+    "forks_count": 380
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 11005,
-    "open_issues_count": 97,
-    "forks_count": 401
+    "stargazers_count": 11099,
+    "open_issues_count": 77,
+    "forks_count": 406
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 18950,
-    "open_issues_count": 164,
-    "forks_count": 882
+    "stargazers_count": 19189,
+    "open_issues_count": 147,
+    "forks_count": 892
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 28511,
-    "open_issues_count": 93,
-    "forks_count": 2527
+    "stargazers_count": 28553,
+    "open_issues_count": 103,
+    "forks_count": 2539
   },
   {
     "full_name": "ravynsoft/ravynos",
-    "stargazers_count": 4129,
+    "stargazers_count": 4141,
     "open_issues_count": 101,
     "forks_count": 132
   },
@@ -127,7 +157,7 @@
   },
   {
     "full_name": "meteor/meteor",
-    "stargazers_count": 42994,
+    "stargazers_count": 42995,
     "open_issues_count": 170,
     "forks_count": 5197
   },
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "NixOS/nix.dev",
-    "stargazers_count": 874,
-    "open_issues_count": 85,
-    "forks_count": 81
+    "stargazers_count": 878,
+    "open_issues_count": 86,
+    "forks_count": 82
   },
   {
     "full_name": "tokio-rs/mini-redis",
-    "stargazers_count": 1951,
+    "stargazers_count": 1960,
     "open_issues_count": 24,
     "forks_count": 219
-  },
-  {
-    "full_name": "RalfJung/minirust",
-    "stargazers_count": 602,
-    "open_issues_count": 9,
-    "forks_count": 19
-  },
-  {
-    "full_name": "maaslalani/slides",
-    "stargazers_count": 5985,
-    "open_issues_count": 16,
-    "forks_count": 167
-  },
-  {
-    "full_name": "rust-br/rust-book-pt-br",
-    "stargazers_count": 207,
-    "open_issues_count": 30,
-    "forks_count": 58
-  },
-  {
-    "full_name": "charmbracelet/gum",
-    "stargazers_count": 10004,
-    "open_issues_count": 24,
-    "forks_count": 162
-  },
-  {
-    "full_name": "myles/awesome-static-generators",
-    "stargazers_count": 2068,
-    "open_issues_count": 0,
-    "forks_count": 144
   }
 ]
