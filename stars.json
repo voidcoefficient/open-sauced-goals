@@ -1,21 +1,21 @@
 [
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 30002,
-    "open_issues_count": 27,
-    "forks_count": 1812
+    "stargazers_count": 30070,
+    "open_issues_count": 32,
+    "forks_count": 1816
   },
   {
     "full_name": "GothenburgBitFactory/taskwarrior",
-    "stargazers_count": 2810,
-    "open_issues_count": 411,
+    "stargazers_count": 2821,
+    "open_issues_count": 412,
     "forks_count": 212
   },
   {
     "full_name": "curl/curl",
-    "stargazers_count": 26780,
-    "open_issues_count": 62,
-    "forks_count": 5328
+    "stargazers_count": 26821,
+    "open_issues_count": 64,
+    "forks_count": 5327
   },
   {
     "full_name": "MiauToofu/stopWatch",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "minsk-dev/gold",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
+    "stargazers_count": 4,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "eugeneyan/1-on-1s",
-    "stargazers_count": 245,
+    "stargazers_count": 247,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 7970,
-    "open_issues_count": 80,
-    "forks_count": 422
+    "stargazers_count": 7991,
+    "open_issues_count": 79,
+    "forks_count": 426
   },
   {
     "full_name": "rupa/z",
-    "stargazers_count": 14659,
+    "stargazers_count": 14664,
     "open_issues_count": 99,
-    "forks_count": 1135
+    "forks_count": 1136
   },
   {
     "full_name": "LizAinslie/society",
@@ -55,25 +55,25 @@
   },
   {
     "full_name": "piscinajs/piscina",
-    "stargazers_count": 2778,
+    "stargazers_count": 2787,
     "open_issues_count": 38,
     "forks_count": 76
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 9842,
-    "open_issues_count": 128,
-    "forks_count": 352
+    "stargazers_count": 10221,
+    "open_issues_count": 142,
+    "forks_count": 375
   },
   {
     "full_name": "ndaba1/twinit",
-    "stargazers_count": 107,
+    "stargazers_count": 112,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Jutanium/tutour",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 13666,
-    "open_issues_count": 497,
-    "forks_count": 1618
+    "stargazers_count": 13724,
+    "open_issues_count": 510,
+    "forks_count": 1623
   },
   {
     "full_name": "minsk-dev/t3-cli",
@@ -97,19 +97,19 @@
   },
   {
     "full_name": "jlalmes/trpc-openapi",
-    "stargazers_count": 429,
-    "open_issues_count": 14,
-    "forks_count": 12
+    "stargazers_count": 435,
+    "open_issues_count": 15,
+    "forks_count": 13
   },
   {
     "full_name": "rayon-rs/rayon",
-    "stargazers_count": 7278,
+    "stargazers_count": 7292,
     "open_issues_count": 172,
-    "forks_count": 387
+    "forks_count": 386
   },
   {
     "full_name": "nadrad/h-m-m",
-    "stargazers_count": 1353,
+    "stargazers_count": 1385,
     "open_issues_count": 5,
     "forks_count": 29
   },
@@ -121,33 +121,33 @@
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 1251,
+    "stargazers_count": 1268,
     "open_issues_count": 38,
-    "forks_count": 93
+    "forks_count": 94
   },
   {
     "full_name": "npm/cli",
-    "stargazers_count": 6390,
-    "open_issues_count": 480,
-    "forks_count": 2076
+    "stargazers_count": 6405,
+    "open_issues_count": 481,
+    "forks_count": 2084
   },
   {
     "full_name": "MarcusOtter/discord-needle",
-    "stargazers_count": 134,
-    "open_issues_count": 30,
-    "forks_count": 44
+    "stargazers_count": 136,
+    "open_issues_count": 35,
+    "forks_count": 46
   },
   {
     "full_name": "zach-hopkins/create-t3svelte-app",
-    "stargazers_count": 51,
+    "stargazers_count": 55,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 12589,
-    "open_issues_count": 82,
-    "forks_count": 266
+    "stargazers_count": 12843,
+    "open_issues_count": 96,
+    "forks_count": 274
   },
   {
     "full_name": "minsk-dev/create-t3-native",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "master-co/css",
-    "stargazers_count": 989,
-    "open_issues_count": 13,
+    "stargazers_count": 992,
+    "open_issues_count": 11,
     "forks_count": 27
   },
   {
     "full_name": "planetscale/database-js",
-    "stargazers_count": 187,
+    "stargazers_count": 188,
     "open_issues_count": 3,
     "forks_count": 4
   },
   {
     "full_name": "nerdypepper/scientifica",
-    "stargazers_count": 1391,
+    "stargazers_count": 1397,
     "open_issues_count": 12,
     "forks_count": 23
   },
   {
     "full_name": "IdreesInc/Monocraft",
-    "stargazers_count": 4622,
-    "open_issues_count": 32,
+    "stargazers_count": 4674,
+    "open_issues_count": 30,
     "forks_count": 48
   }
 ]
