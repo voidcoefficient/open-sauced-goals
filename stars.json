@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "arrow-kt/arrow",
+    "stargazers_count": 5417,
+    "open_issues_count": 54,
+    "forks_count": 387
+  },
+  {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 13050,
-    "open_issues_count": 179,
-    "forks_count": 1583
+    "stargazers_count": 13149,
+    "open_issues_count": 176,
+    "forks_count": 1593
   },
   {
     "full_name": "betaveros/noulith",
-    "stargazers_count": 848,
-    "open_issues_count": 1,
-    "forks_count": 11
+    "stargazers_count": 861,
+    "open_issues_count": 2,
+    "forks_count": 12
   },
   {
     "full_name": "minsk-dev/papaya",
@@ -19,21 +25,21 @@
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 18976,
-    "open_issues_count": 2344,
+    "stargazers_count": 19035,
+    "open_issues_count": 2354,
     "forks_count": 1444
   },
   {
     "full_name": "Swatinem/rust-cache",
     "stargazers_count": 644,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 51
   },
   {
     "full_name": "1Password/typeshare",
-    "stargazers_count": 1588,
-    "open_issues_count": 25,
-    "forks_count": 33
+    "stargazers_count": 1596,
+    "open_issues_count": 29,
+    "forks_count": 34
   },
   {
     "full_name": "girassol-rb/girassol",
@@ -49,32 +55,32 @@
   },
   {
     "full_name": "vercel/serve",
-    "stargazers_count": 8357,
+    "stargazers_count": 8365,
     "open_issues_count": 109,
     "forks_count": 704
   },
   {
     "full_name": "pokeclicker/pokeclicker",
-    "stargazers_count": 390,
-    "open_issues_count": 333,
-    "forks_count": 245
+    "stargazers_count": 391,
+    "open_issues_count": 325,
+    "forks_count": 247
   },
   {
     "full_name": "TheDan64/inkwell",
-    "stargazers_count": 1489,
-    "open_issues_count": 77,
+    "stargazers_count": 1491,
+    "open_issues_count": 78,
     "forks_count": 153
   },
   {
     "full_name": "pest-parser/pest",
-    "stargazers_count": 3460,
+    "stargazers_count": 3462,
     "open_issues_count": 65,
-    "forks_count": 185
+    "forks_count": 186
   },
   {
     "full_name": "kdeldycke/awesome-falsehood",
-    "stargazers_count": 19365,
-    "open_issues_count": 3,
+    "stargazers_count": 19380,
+    "open_issues_count": 1,
     "forks_count": 483
   },
   {
@@ -85,14 +91,14 @@
   },
   {
     "full_name": "google/rune",
-    "stargazers_count": 1795,
+    "stargazers_count": 1800,
     "open_issues_count": 8,
     "forks_count": 44
   },
   {
     "full_name": "TodePond/DreamBerd",
-    "stargazers_count": 291,
-    "open_issues_count": 20,
+    "stargazers_count": 296,
+    "open_issues_count": 21,
     "forks_count": 9
   },
   {
@@ -103,21 +109,21 @@
   },
   {
     "full_name": "crossbeam-rs/crossbeam",
-    "stargazers_count": 5652,
+    "stargazers_count": 5683,
     "open_issues_count": 112,
-    "forks_count": 373
+    "forks_count": 372
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 32841,
-    "open_issues_count": 112,
-    "forks_count": 5450
+    "stargazers_count": 32960,
+    "open_issues_count": 100,
+    "forks_count": 5473
   },
   {
     "full_name": "gbj/leptos",
-    "stargazers_count": 3661,
-    "open_issues_count": 17,
-    "forks_count": 80
+    "stargazers_count": 3735,
+    "open_issues_count": 14,
+    "forks_count": 84
   },
   {
     "full_name": "victoriaquasar/my-articles",
@@ -127,56 +133,50 @@
   },
   {
     "full_name": "powrjs/powr",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "v8/v8",
-    "stargazers_count": 20604,
+    "stargazers_count": 20614,
     "open_issues_count": 0,
-    "forks_count": 3782
+    "forks_count": 3783
   },
   {
     "full_name": "silverbulletmd/silverbullet",
-    "stargazers_count": 842,
-    "open_issues_count": 74,
-    "forks_count": 47
+    "stargazers_count": 870,
+    "open_issues_count": 76,
+    "forks_count": 51
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 19052,
+    "stargazers_count": 19096,
     "open_issues_count": 330,
-    "forks_count": 2249
+    "forks_count": 2254
   },
   {
     "full_name": "tokio-rs/prost",
-    "stargazers_count": 2476,
+    "stargazers_count": 2486,
     "open_issues_count": 148,
     "forks_count": 345
   },
   {
     "full_name": "danielealbano/cachegrand",
-    "stargazers_count": 808,
+    "stargazers_count": 809,
     "open_issues_count": 29,
     "forks_count": 24
   },
   {
     "full_name": "hapsoc/hring",
-    "stargazers_count": 102,
+    "stargazers_count": 106,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "andrei-markeev/ts2c",
-    "stargazers_count": 1126,
+    "stargazers_count": 1125,
     "open_issues_count": 31,
     "forks_count": 79
-  },
-  {
-    "full_name": "Floby/node-tokenizer",
-    "stargazers_count": 100,
-    "open_issues_count": 11,
-    "forks_count": 15
   }
 ]
