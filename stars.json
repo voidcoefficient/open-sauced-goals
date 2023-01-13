@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "ansh/jiffyreader.com",
+    "stargazers_count": 2962,
+    "open_issues_count": 16,
+    "forks_count": 158
+  },
+  {
+    "full_name": "Poucous/smartReader",
+    "stargazers_count": 28,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 39174,
-    "open_issues_count": 890,
-    "forks_count": 3288
+    "stargazers_count": 39381,
+    "open_issues_count": 891,
+    "forks_count": 3310
   },
   {
     "full_name": "nvinayshetty/DTOnator",
@@ -13,8 +25,8 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 7776,
-    "open_issues_count": 102,
+    "stargazers_count": 7803,
+    "open_issues_count": 100,
     "forks_count": 376
   },
   {
@@ -25,19 +37,19 @@
   },
   {
     "full_name": "arrow-kt/arrow",
-    "stargazers_count": 5433,
-    "open_issues_count": 55,
+    "stargazers_count": 5440,
+    "open_issues_count": 53,
     "forks_count": 389
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 13919,
-    "open_issues_count": 153,
-    "forks_count": 1642
+    "stargazers_count": 14020,
+    "open_issues_count": 155,
+    "forks_count": 1653
   },
   {
     "full_name": "betaveros/noulith",
-    "stargazers_count": 924,
+    "stargazers_count": 926,
     "open_issues_count": 4,
     "forks_count": 16
   },
@@ -49,21 +61,21 @@
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 19264,
-    "open_issues_count": 2156,
-    "forks_count": 1457
+    "stargazers_count": 19321,
+    "open_issues_count": 2152,
+    "forks_count": 1462
   },
   {
     "full_name": "Swatinem/rust-cache",
-    "stargazers_count": 658,
+    "stargazers_count": 662,
     "open_issues_count": 16,
     "forks_count": 55
   },
   {
     "full_name": "1Password/typeshare",
-    "stargazers_count": 1641,
-    "open_issues_count": 32,
-    "forks_count": 38
+    "stargazers_count": 1669,
+    "open_issues_count": 33,
+    "forks_count": 41
   },
   {
     "full_name": "girassol-rb/girassol",
@@ -79,33 +91,33 @@
   },
   {
     "full_name": "vercel/serve",
-    "stargazers_count": 8381,
+    "stargazers_count": 8390,
     "open_issues_count": 107,
     "forks_count": 703
   },
   {
     "full_name": "pokeclicker/pokeclicker",
-    "stargazers_count": 397,
-    "open_issues_count": 353,
-    "forks_count": 257
+    "stargazers_count": 398,
+    "open_issues_count": 347,
+    "forks_count": 258
   },
   {
     "full_name": "TheDan64/inkwell",
-    "stargazers_count": 1513,
+    "stargazers_count": 1514,
     "open_issues_count": 76,
-    "forks_count": 154
+    "forks_count": 155
   },
   {
     "full_name": "pest-parser/pest",
-    "stargazers_count": 3496,
-    "open_issues_count": 66,
+    "stargazers_count": 3501,
+    "open_issues_count": 65,
     "forks_count": 188
   },
   {
     "full_name": "kdeldycke/awesome-falsehood",
-    "stargazers_count": 19444,
+    "stargazers_count": 19467,
     "open_issues_count": 1,
-    "forks_count": 484
+    "forks_count": 485
   },
   {
     "full_name": "ehsanmok/create-your-own-lang-with-rust",
@@ -115,7 +127,7 @@
   },
   {
     "full_name": "google/rune",
-    "stargazers_count": 1865,
+    "stargazers_count": 1871,
     "open_issues_count": 4,
     "forks_count": 45
   },
@@ -133,21 +145,21 @@
   },
   {
     "full_name": "crossbeam-rs/crossbeam",
-    "stargazers_count": 5730,
+    "stargazers_count": 5742,
     "open_issues_count": 113,
-    "forks_count": 374
+    "forks_count": 375
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 33326,
-    "open_issues_count": 108,
-    "forks_count": 5545
+    "stargazers_count": 33412,
+    "open_issues_count": 103,
+    "forks_count": 5565
   },
   {
-    "full_name": "gbj/leptos",
-    "stargazers_count": 4434,
+    "full_name": "leptos-rs/leptos",
+    "stargazers_count": 4499,
     "open_issues_count": 12,
-    "forks_count": 95
+    "forks_count": 97
   },
   {
     "full_name": "victoriaquasar/my-articles",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "v8/v8",
-    "stargazers_count": 20645,
+    "stargazers_count": 20659,
     "open_issues_count": 0,
     "forks_count": 3783
-  },
-  {
-    "full_name": "silverbulletmd/silverbullet",
-    "stargazers_count": 938,
-    "open_issues_count": 94,
-    "forks_count": 58
-  },
-  {
-    "full_name": "directus/directus",
-    "stargazers_count": 19334,
-    "open_issues_count": 313,
-    "forks_count": 2275
   }
 ]
