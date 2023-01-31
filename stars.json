@@ -1,9 +1,9 @@
 [
   {
     "full_name": "ansh/jiffyreader.com",
-    "stargazers_count": 2967,
-    "open_issues_count": 16,
-    "forks_count": 157
+    "stargazers_count": 2971,
+    "open_issues_count": 15,
+    "forks_count": 156
   },
   {
     "full_name": "Poucous/smartReader",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 40080,
-    "open_issues_count": 915,
-    "forks_count": 3373
+    "stargazers_count": 40699,
+    "open_issues_count": 918,
+    "forks_count": 3408
   },
   {
     "full_name": "nvinayshetty/DTOnator",
@@ -25,31 +25,31 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 7908,
-    "open_issues_count": 102,
-    "forks_count": 395
+    "stargazers_count": 7941,
+    "open_issues_count": 103,
+    "forks_count": 398
   },
   {
     "full_name": "sarkahn/bevy_ascii_terminal",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "arrow-kt/arrow",
-    "stargazers_count": 5459,
-    "open_issues_count": 57,
+    "stargazers_count": 5469,
+    "open_issues_count": 59,
     "forks_count": 392
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 14333,
-    "open_issues_count": 161,
-    "forks_count": 1693
+    "stargazers_count": 14426,
+    "open_issues_count": 170,
+    "forks_count": 1705
   },
   {
     "full_name": "betaveros/noulith",
-    "stargazers_count": 947,
+    "stargazers_count": 948,
     "open_issues_count": 6,
     "forks_count": 17
   },
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 19614,
-    "open_issues_count": 2110,
-    "forks_count": 1483
+    "stargazers_count": 19708,
+    "open_issues_count": 2105,
+    "forks_count": 1488
   },
   {
     "full_name": "Swatinem/rust-cache",
-    "stargazers_count": 679,
+    "stargazers_count": 683,
     "open_issues_count": 16,
     "forks_count": 55
   },
   {
     "full_name": "1Password/typeshare",
-    "stargazers_count": 1744,
+    "stargazers_count": 1759,
     "open_issues_count": 30,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "girassol-rb/girassol",
@@ -91,75 +91,75 @@
   },
   {
     "full_name": "vercel/serve",
-    "stargazers_count": 8419,
+    "stargazers_count": 8426,
     "open_issues_count": 109,
     "forks_count": 703
   },
   {
     "full_name": "pokeclicker/pokeclicker",
-    "stargazers_count": 400,
-    "open_issues_count": 330,
-    "forks_count": 259
+    "stargazers_count": 402,
+    "open_issues_count": 331,
+    "forks_count": 260
   },
   {
     "full_name": "TheDan64/inkwell",
-    "stargazers_count": 1532,
+    "stargazers_count": 1536,
     "open_issues_count": 73,
     "forks_count": 161
   },
   {
     "full_name": "pest-parser/pest",
-    "stargazers_count": 3541,
-    "open_issues_count": 63,
-    "forks_count": 189
+    "stargazers_count": 3552,
+    "open_issues_count": 65,
+    "forks_count": 190
   },
   {
     "full_name": "kdeldycke/awesome-falsehood",
-    "stargazers_count": 19522,
+    "stargazers_count": 19540,
     "open_issues_count": 1,
     "forks_count": 486
   },
   {
     "full_name": "ehsanmok/create-your-own-lang-with-rust",
-    "stargazers_count": 587,
+    "stargazers_count": 588,
     "open_issues_count": 3,
     "forks_count": 29
   },
   {
     "full_name": "google/rune",
-    "stargazers_count": 1884,
+    "stargazers_count": 1891,
     "open_issues_count": 4,
     "forks_count": 45
   },
   {
     "full_name": "TodePond/DreamBerd",
-    "stargazers_count": 303,
+    "stargazers_count": 305,
     "open_issues_count": 22,
     "forks_count": 11
   },
   {
     "full_name": "nexxeln/hackernews",
-    "stargazers_count": 28,
+    "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "crossbeam-rs/crossbeam",
-    "stargazers_count": 5765,
-    "open_issues_count": 111,
-    "forks_count": 380
+    "stargazers_count": 5814,
+    "open_issues_count": 112,
+    "forks_count": 382
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 33863,
+    "stargazers_count": 34004,
     "open_issues_count": 106,
-    "forks_count": 5657
+    "forks_count": 5677
   },
   {
     "full_name": "leptos-rs/leptos",
-    "stargazers_count": 5362,
-    "open_issues_count": 16,
-    "forks_count": 128
+    "stargazers_count": 5520,
+    "open_issues_count": 17,
+    "forks_count": 133
   },
   {
     "full_name": "victoriaquasar/my-articles",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "powrjs/powr",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "v8/v8",
-    "stargazers_count": 20697,
+    "stargazers_count": 20722,
     "open_issues_count": 0,
-    "forks_count": 3790
+    "forks_count": 3792
   }
 ]
