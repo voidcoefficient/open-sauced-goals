@@ -1,21 +1,21 @@
 [
   {
     "full_name": "ansh/jiffyreader.com",
-    "stargazers_count": 2971,
+    "stargazers_count": 2974,
     "open_issues_count": 15,
     "forks_count": 156
   },
   {
     "full_name": "Poucous/smartReader",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 40699,
-    "open_issues_count": 918,
-    "forks_count": 3408
+    "stargazers_count": 40933,
+    "open_issues_count": 914,
+    "forks_count": 3429
   },
   {
     "full_name": "nvinayshetty/DTOnator",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 7941,
+    "stargazers_count": 7952,
     "open_issues_count": 103,
-    "forks_count": 398
+    "forks_count": 401
   },
   {
     "full_name": "sarkahn/bevy_ascii_terminal",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "arrow-kt/arrow",
-    "stargazers_count": 5469,
-    "open_issues_count": 59,
-    "forks_count": 392
+    "stargazers_count": 5473,
+    "open_issues_count": 57,
+    "forks_count": 393
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 14426,
-    "open_issues_count": 170,
-    "forks_count": 1705
+    "stargazers_count": 14493,
+    "open_issues_count": 174,
+    "forks_count": 1714
   },
   {
     "full_name": "betaveros/noulith",
@@ -61,20 +61,20 @@
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 19708,
-    "open_issues_count": 2105,
-    "forks_count": 1488
+    "stargazers_count": 19757,
+    "open_issues_count": 2095,
+    "forks_count": 1490
   },
   {
     "full_name": "Swatinem/rust-cache",
-    "stargazers_count": 683,
+    "stargazers_count": 684,
     "open_issues_count": 16,
-    "forks_count": 55
+    "forks_count": 57
   },
   {
     "full_name": "1Password/typeshare",
-    "stargazers_count": 1759,
-    "open_issues_count": 30,
+    "stargazers_count": 1763,
+    "open_issues_count": 29,
     "forks_count": 45
   },
   {
@@ -91,37 +91,37 @@
   },
   {
     "full_name": "vercel/serve",
-    "stargazers_count": 8426,
+    "stargazers_count": 8432,
     "open_issues_count": 109,
-    "forks_count": 703
+    "forks_count": 704
   },
   {
     "full_name": "pokeclicker/pokeclicker",
-    "stargazers_count": 402,
-    "open_issues_count": 331,
-    "forks_count": 260
+    "stargazers_count": 403,
+    "open_issues_count": 332,
+    "forks_count": 263
   },
   {
     "full_name": "TheDan64/inkwell",
-    "stargazers_count": 1536,
-    "open_issues_count": 73,
+    "stargazers_count": 1537,
+    "open_issues_count": 74,
     "forks_count": 161
   },
   {
     "full_name": "pest-parser/pest",
-    "stargazers_count": 3552,
+    "stargazers_count": 3556,
     "open_issues_count": 65,
-    "forks_count": 190
+    "forks_count": 189
   },
   {
     "full_name": "kdeldycke/awesome-falsehood",
-    "stargazers_count": 19540,
+    "stargazers_count": 19701,
     "open_issues_count": 1,
-    "forks_count": 486
+    "forks_count": 490
   },
   {
     "full_name": "ehsanmok/create-your-own-lang-with-rust",
-    "stargazers_count": 588,
+    "stargazers_count": 590,
     "open_issues_count": 3,
     "forks_count": 29
   },
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "TodePond/DreamBerd",
-    "stargazers_count": 305,
-    "open_issues_count": 22,
+    "stargazers_count": 303,
+    "open_issues_count": 20,
     "forks_count": 11
   },
   {
@@ -145,21 +145,21 @@
   },
   {
     "full_name": "crossbeam-rs/crossbeam",
-    "stargazers_count": 5814,
+    "stargazers_count": 5825,
     "open_issues_count": 112,
-    "forks_count": 382
+    "forks_count": 383
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 34004,
-    "open_issues_count": 106,
-    "forks_count": 5677
+    "stargazers_count": 34097,
+    "open_issues_count": 108,
+    "forks_count": 5698
   },
   {
     "full_name": "leptos-rs/leptos",
-    "stargazers_count": 5520,
-    "open_issues_count": 17,
-    "forks_count": 133
+    "stargazers_count": 5613,
+    "open_issues_count": 20,
+    "forks_count": 139
   },
   {
     "full_name": "victoriaquasar/my-articles",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "v8/v8",
-    "stargazers_count": 20722,
+    "stargazers_count": 20738,
     "open_issues_count": 0,
-    "forks_count": 3792
+    "forks_count": 3795
   }
 ]
