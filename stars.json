@@ -13,13 +13,13 @@
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 12674,
+    "stargazers_count": 12854,
     "open_issues_count": 83,
-    "forks_count": 486
+    "forks_count": 489
   },
   {
     "full_name": "motion-canvas/examples",
-    "stargazers_count": 846,
+    "stargazers_count": 858,
     "open_issues_count": 2,
     "forks_count": 54
   },
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "sumimakito/AwesomeQRCode",
-    "stargazers_count": 1809,
+    "stargazers_count": 1811,
     "open_issues_count": 20,
     "forks_count": 261
   },
   {
     "full_name": "cat-milk/Anime-Girls-Holding-Programming-Books",
-    "stargazers_count": 16452,
+    "stargazers_count": 16514,
     "open_issues_count": 23,
-    "forks_count": 850
+    "forks_count": 851
   },
   {
     "full_name": "ansh/jiffyreader.com",
-    "stargazers_count": 3457,
+    "stargazers_count": 3470,
     "open_issues_count": 17,
-    "forks_count": 177
+    "forks_count": 176
   },
   {
     "full_name": "Poucous/smartReader",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 49143,
-    "open_issues_count": 1056,
-    "forks_count": 4196
+    "stargazers_count": 49409,
+    "open_issues_count": 1061,
+    "forks_count": 4217
   },
   {
     "full_name": "nvinayshetty/DTOnator",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 8676,
-    "open_issues_count": 105,
-    "forks_count": 417
+    "stargazers_count": 8692,
+    "open_issues_count": 108,
+    "forks_count": 416
   },
   {
     "full_name": "sarkahn/bevy_ascii_terminal",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "arrow-kt/arrow",
-    "stargazers_count": 5661,
-    "open_issues_count": 42,
+    "stargazers_count": 5665,
+    "open_issues_count": 40,
     "forks_count": 412
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 16882,
-    "open_issues_count": 235,
-    "forks_count": 2055
+    "stargazers_count": 16961,
+    "open_issues_count": 242,
+    "forks_count": 2061
   },
   {
     "full_name": "betaveros/noulith",
@@ -103,19 +103,19 @@
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 22560,
-    "open_issues_count": 2374,
-    "forks_count": 1664
+    "stargazers_count": 22675,
+    "open_issues_count": 2383,
+    "forks_count": 1667
   },
   {
     "full_name": "Swatinem/rust-cache",
-    "stargazers_count": 814,
-    "open_issues_count": 17,
+    "stargazers_count": 818,
+    "open_issues_count": 18,
     "forks_count": 67
   },
   {
     "full_name": "1Password/typeshare",
-    "stargazers_count": 1984,
+    "stargazers_count": 1987,
     "open_issues_count": 49,
     "forks_count": 64
   },
@@ -133,50 +133,50 @@
   },
   {
     "full_name": "vercel/serve",
-    "stargazers_count": 8674,
+    "stargazers_count": 8676,
     "open_issues_count": 114,
     "forks_count": 718
   },
   {
     "full_name": "pokeclicker/pokeclicker",
     "stargazers_count": 434,
-    "open_issues_count": 209,
+    "open_issues_count": 216,
     "forks_count": 275
   },
   {
     "full_name": "TheDan64/inkwell",
-    "stargazers_count": 1701,
+    "stargazers_count": 1705,
     "open_issues_count": 82,
     "forks_count": 176
   },
   {
     "full_name": "pest-parser/pest",
-    "stargazers_count": 3859,
-    "open_issues_count": 58,
-    "forks_count": 207
+    "stargazers_count": 3866,
+    "open_issues_count": 59,
+    "forks_count": 208
   },
   {
     "full_name": "kdeldycke/awesome-falsehood",
-    "stargazers_count": 20761,
-    "open_issues_count": 1,
+    "stargazers_count": 20780,
+    "open_issues_count": 2,
     "forks_count": 506
   },
   {
     "full_name": "ehsanmok/create-your-own-lang-with-rust",
-    "stargazers_count": 622,
+    "stargazers_count": 623,
     "open_issues_count": 3,
     "forks_count": 32
   },
   {
     "full_name": "google/rune",
-    "stargazers_count": 1913,
+    "stargazers_count": 1914,
     "open_issues_count": 4,
     "forks_count": 48
   },
   {
     "full_name": "TodePond/DreamBerd",
-    "stargazers_count": 331,
-    "open_issues_count": 23,
-    "forks_count": 15
+    "stargazers_count": 1375,
+    "open_issues_count": 44,
+    "forks_count": 31
   }
 ]
