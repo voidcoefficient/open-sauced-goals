@@ -1,9 +1,9 @@
 [
   {
     "full_name": "EmbarkStudios/rust-gpu",
-    "stargazers_count": 6426,
+    "stargazers_count": 6435,
     "open_issues_count": 90,
-    "forks_count": 220
+    "forks_count": 221
   },
   {
     "full_name": "aripiprazole/eq",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 26114,
-    "open_issues_count": 1088,
-    "forks_count": 13162
+    "stargazers_count": 26133,
+    "open_issues_count": 1078,
+    "forks_count": 13171
   },
   {
     "full_name": "hundredrabbits/Orca",
-    "stargazers_count": 4296,
+    "stargazers_count": 4297,
     "open_issues_count": 36,
     "forks_count": 229
   },
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 13931,
-    "open_issues_count": 73,
-    "forks_count": 533
+    "stargazers_count": 13953,
+    "open_issues_count": 70,
+    "forks_count": 536
   },
   {
     "full_name": "motion-canvas/examples",
-    "stargazers_count": 896,
+    "stargazers_count": 900,
     "open_issues_count": 2,
     "forks_count": 57
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "cat-milk/Anime-Girls-Holding-Programming-Books",
-    "stargazers_count": 17202,
-    "open_issues_count": 41,
-    "forks_count": 879
+    "stargazers_count": 17218,
+    "open_issues_count": 42,
+    "forks_count": 880
   },
   {
     "full_name": "ansh/jiffyreader.com",
-    "stargazers_count": 3579,
+    "stargazers_count": 3582,
     "open_issues_count": 29,
-    "forks_count": 192
+    "forks_count": 193
   },
   {
     "full_name": "Poucous/smartReader",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 57202,
-    "open_issues_count": 1282,
-    "forks_count": 5049
+    "stargazers_count": 57380,
+    "open_issues_count": 1285,
+    "forks_count": 5065
   },
   {
     "full_name": "nvinayshetty/DTOnator",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 9634,
-    "open_issues_count": 120,
-    "forks_count": 443
+    "stargazers_count": 9648,
+    "open_issues_count": 121,
+    "forks_count": 444
   },
   {
     "full_name": "sarkahn/bevy_ascii_terminal",
@@ -103,19 +103,19 @@
   },
   {
     "full_name": "arrow-kt/arrow",
-    "stargazers_count": 5811,
-    "open_issues_count": 121,
+    "stargazers_count": 5814,
+    "open_issues_count": 100,
     "forks_count": 429
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 19534,
-    "open_issues_count": 317,
-    "forks_count": 2404
+    "stargazers_count": 19585,
+    "open_issues_count": 325,
+    "forks_count": 2410
   },
   {
     "full_name": "betaveros/noulith",
-    "stargazers_count": 1033,
+    "stargazers_count": 1032,
     "open_issues_count": 4,
     "forks_count": 16
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 26694,
-    "open_issues_count": 2635,
-    "forks_count": 1930
+    "stargazers_count": 26740,
+    "open_issues_count": 2650,
+    "forks_count": 1933
   },
   {
     "full_name": "Swatinem/rust-cache",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "1Password/typeshare",
-    "stargazers_count": 2140,
+    "stargazers_count": 2141,
     "open_issues_count": 54,
     "forks_count": 76
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "vercel/serve",
-    "stargazers_count": 8895,
+    "stargazers_count": 8899,
     "open_issues_count": 126,
     "forks_count": 720
   },
   {
     "full_name": "pokeclicker/pokeclicker",
-    "stargazers_count": 471,
-    "open_issues_count": 247,
-    "forks_count": 294
+    "stargazers_count": 472,
+    "open_issues_count": 249,
+    "forks_count": 295
   },
   {
     "full_name": "TheDan64/inkwell",
-    "stargazers_count": 1908,
+    "stargazers_count": 1921,
     "open_issues_count": 84,
     "forks_count": 190
   },
   {
     "full_name": "pest-parser/pest",
-    "stargazers_count": 4064,
-    "open_issues_count": 60,
+    "stargazers_count": 4069,
+    "open_issues_count": 61,
     "forks_count": 218
   }
 ]
