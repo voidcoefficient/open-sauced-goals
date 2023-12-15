@@ -1,9 +1,9 @@
 [
   {
     "full_name": "EmbarkStudios/rust-gpu",
-    "stargazers_count": 6534,
+    "stargazers_count": 6545,
     "open_issues_count": 99,
-    "forks_count": 226
+    "forks_count": 225
   },
   {
     "full_name": "aripiprazole/eq",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 26382,
-    "open_issues_count": 1111,
-    "forks_count": 13272
+    "stargazers_count": 26408,
+    "open_issues_count": 1115,
+    "forks_count": 13282
   },
   {
     "full_name": "hundredrabbits/Orca",
     "stargazers_count": 4342,
     "open_issues_count": 36,
-    "forks_count": 231
+    "forks_count": 230
   },
   {
     "full_name": "3mcd/javelin",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 14105,
+    "stargazers_count": 14115,
     "open_issues_count": 68,
     "forks_count": 546
   },
   {
     "full_name": "motion-canvas/examples",
-    "stargazers_count": 908,
+    "stargazers_count": 909,
     "open_issues_count": 2,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "lffg/fdb",
@@ -55,67 +55,67 @@
   },
   {
     "full_name": "sumimakito/AwesomeQRCode",
-    "stargazers_count": 1851,
+    "stargazers_count": 1852,
     "open_issues_count": 20,
     "forks_count": 265
   },
   {
     "full_name": "cat-milk/Anime-Girls-Holding-Programming-Books",
-    "stargazers_count": 17383,
-    "open_issues_count": 23,
+    "stargazers_count": 17390,
+    "open_issues_count": 24,
     "forks_count": 879
   },
   {
     "full_name": "ansh/jiffyreader.com",
-    "stargazers_count": 3596,
+    "stargazers_count": 3598,
     "open_issues_count": 32,
     "forks_count": 197
   },
   {
     "full_name": "Poucous/smartReader",
-    "stargazers_count": 59,
+    "stargazers_count": 60,
     "open_issues_count": 7,
     "forks_count": 7
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 60323,
-    "open_issues_count": 1367,
-    "forks_count": 5383
+    "stargazers_count": 60535,
+    "open_issues_count": 1373,
+    "forks_count": 5410
   },
   {
     "full_name": "nvinayshetty/DTOnator",
     "stargazers_count": 234,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 21
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 9895,
+    "stargazers_count": 9914,
     "open_issues_count": 115,
-    "forks_count": 459
+    "forks_count": 462
   },
   {
     "full_name": "sarkahn/bevy_ascii_terminal",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "arrow-kt/arrow",
-    "stargazers_count": 5852,
-    "open_issues_count": 40,
+    "stargazers_count": 5856,
+    "open_issues_count": 44,
     "forks_count": 428
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 20159,
-    "open_issues_count": 356,
-    "forks_count": 2518
+    "stargazers_count": 20210,
+    "open_issues_count": 359,
+    "forks_count": 2528
   },
   {
     "full_name": "betaveros/noulith",
-    "stargazers_count": 1098,
+    "stargazers_count": 1100,
     "open_issues_count": 5,
     "forks_count": 19
   },
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 27368,
-    "open_issues_count": 2764,
-    "forks_count": 1990
+    "stargazers_count": 27436,
+    "open_issues_count": 2773,
+    "forks_count": 1992
   },
   {
     "full_name": "Swatinem/rust-cache",
-    "stargazers_count": 993,
+    "stargazers_count": 997,
     "open_issues_count": 23,
     "forks_count": 82
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "vercel/serve",
-    "stargazers_count": 8952,
+    "stargazers_count": 8957,
     "open_issues_count": 126,
     "forks_count": 719
   },
   {
     "full_name": "pokeclicker/pokeclicker",
-    "stargazers_count": 476,
-    "open_issues_count": 268,
-    "forks_count": 297
+    "stargazers_count": 477,
+    "open_issues_count": 271,
+    "forks_count": 298
   },
   {
     "full_name": "TheDan64/inkwell",
-    "stargazers_count": 1977,
+    "stargazers_count": 1978,
     "open_issues_count": 86,
-    "forks_count": 191
+    "forks_count": 192
   },
   {
     "full_name": "pest-parser/pest",
-    "stargazers_count": 4156,
+    "stargazers_count": 4162,
     "open_issues_count": 59,
-    "forks_count": 220
+    "forks_count": 219
   }
 ]
