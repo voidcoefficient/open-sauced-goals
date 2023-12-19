@@ -1,9 +1,9 @@
 [
   {
     "full_name": "EmbarkStudios/rust-gpu",
-    "stargazers_count": 6545,
-    "open_issues_count": 99,
-    "forks_count": 225
+    "stargazers_count": 6555,
+    "open_issues_count": 101,
+    "forks_count": 224
   },
   {
     "full_name": "aripiprazole/eq",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 26408,
-    "open_issues_count": 1115,
-    "forks_count": 13282
+    "stargazers_count": 26434,
+    "open_issues_count": 1118,
+    "forks_count": 13290
   },
   {
     "full_name": "hundredrabbits/Orca",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 14115,
-    "open_issues_count": 68,
-    "forks_count": 546
+    "stargazers_count": 14151,
+    "open_issues_count": 69,
+    "forks_count": 549
   },
   {
     "full_name": "motion-canvas/examples",
-    "stargazers_count": 909,
+    "stargazers_count": 912,
     "open_issues_count": 2,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "lffg/fdb",
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "cat-milk/Anime-Girls-Holding-Programming-Books",
-    "stargazers_count": 17390,
-    "open_issues_count": 24,
-    "forks_count": 879
+    "stargazers_count": 17412,
+    "open_issues_count": 25,
+    "forks_count": 881
   },
   {
     "full_name": "ansh/jiffyreader.com",
-    "stargazers_count": 3598,
+    "stargazers_count": 3599,
     "open_issues_count": 32,
     "forks_count": 197
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 60535,
-    "open_issues_count": 1373,
-    "forks_count": 5410
+    "stargazers_count": 60769,
+    "open_issues_count": 1378,
+    "forks_count": 5436
   },
   {
     "full_name": "nvinayshetty/DTOnator",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 9914,
-    "open_issues_count": 115,
-    "forks_count": 462
+    "stargazers_count": 9943,
+    "open_issues_count": 116,
+    "forks_count": 463
   },
   {
     "full_name": "sarkahn/bevy_ascii_terminal",
@@ -104,18 +104,18 @@
   {
     "full_name": "arrow-kt/arrow",
     "stargazers_count": 5856,
-    "open_issues_count": 44,
+    "open_issues_count": 45,
     "forks_count": 428
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 20210,
-    "open_issues_count": 359,
-    "forks_count": 2528
+    "stargazers_count": 20271,
+    "open_issues_count": 365,
+    "forks_count": 2537
   },
   {
     "full_name": "betaveros/noulith",
-    "stargazers_count": 1100,
+    "stargazers_count": 1102,
     "open_issues_count": 5,
     "forks_count": 19
   },
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 27436,
-    "open_issues_count": 2773,
-    "forks_count": 1992
+    "stargazers_count": 27512,
+    "open_issues_count": 2789,
+    "forks_count": 1998
   },
   {
     "full_name": "Swatinem/rust-cache",
-    "stargazers_count": 997,
+    "stargazers_count": 999,
     "open_issues_count": 23,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "1Password/typeshare",
-    "stargazers_count": 2174,
+    "stargazers_count": 2175,
     "open_issues_count": 56,
     "forks_count": 77
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "vercel/serve",
-    "stargazers_count": 8957,
-    "open_issues_count": 126,
-    "forks_count": 719
+    "stargazers_count": 8961,
+    "open_issues_count": 127,
+    "forks_count": 720
   },
   {
     "full_name": "pokeclicker/pokeclicker",
     "stargazers_count": 477,
     "open_issues_count": 271,
-    "forks_count": 298
+    "forks_count": 299
   },
   {
     "full_name": "TheDan64/inkwell",
-    "stargazers_count": 1978,
+    "stargazers_count": 1981,
     "open_issues_count": 86,
     "forks_count": 192
   },
   {
     "full_name": "pest-parser/pest",
-    "stargazers_count": 4162,
-    "open_issues_count": 59,
-    "forks_count": 219
+    "stargazers_count": 4168,
+    "open_issues_count": 58,
+    "forks_count": 220
   }
 ]
