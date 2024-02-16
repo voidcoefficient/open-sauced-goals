@@ -1,44 +1,44 @@
 [
   {
     "full_name": "agencyenterprise/react-native-health",
-    "stargazers_count": 706,
-    "open_issues_count": 99,
-    "forks_count": 208
+    "stargazers_count": 709,
+    "open_issues_count": 101,
+    "forks_count": 209
   },
   {
     "full_name": "ThePrimeagen/refactoring.nvim",
-    "stargazers_count": 2293,
+    "stargazers_count": 2296,
     "open_issues_count": 19,
     "forks_count": 82
   },
   {
     "full_name": "jayphelps/git-blame-someone-else",
-    "stargazers_count": 10478,
+    "stargazers_count": 10484,
     "open_issues_count": 23,
     "forks_count": 266
   },
   {
     "full_name": "emilk/egui",
-    "stargazers_count": 18382,
-    "open_issues_count": 637,
-    "forks_count": 1357
+    "stargazers_count": 18437,
+    "open_issues_count": 646,
+    "forks_count": 1361
   },
   {
     "full_name": "mvlabat/bevy_egui",
-    "stargazers_count": 729,
+    "stargazers_count": 731,
     "open_issues_count": 41,
     "forks_count": 208
   },
   {
     "full_name": "tsulej/GenerateMe",
-    "stargazers_count": 929,
+    "stargazers_count": 930,
     "open_issues_count": 4,
     "forks_count": 234
   },
   {
     "full_name": "EmbarkStudios/rust-gpu",
-    "stargazers_count": 6767,
-    "open_issues_count": 106,
+    "stargazers_count": 6779,
+    "open_issues_count": 107,
     "forks_count": 233
   },
   {
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 26806,
-    "open_issues_count": 1104,
-    "forks_count": 13461
+    "stargazers_count": 26824,
+    "open_issues_count": 1105,
+    "forks_count": 13467
   },
   {
     "full_name": "hundredrabbits/Orca",
-    "stargazers_count": 4382,
+    "stargazers_count": 4385,
     "open_issues_count": 36,
     "forks_count": 229
   },
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 14625,
-    "open_issues_count": 77,
-    "forks_count": 567
+    "stargazers_count": 14642,
+    "open_issues_count": 75,
+    "forks_count": 572
   },
   {
     "full_name": "motion-canvas/examples",
-    "stargazers_count": 930,
+    "stargazers_count": 931,
     "open_issues_count": 2,
     "forks_count": 57
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "cat-milk/Anime-Girls-Holding-Programming-Books",
-    "stargazers_count": 17619,
+    "stargazers_count": 17628,
     "open_issues_count": 30,
-    "forks_count": 896
+    "forks_count": 895
   },
   {
     "full_name": "ansh/jiffyreader.com",
@@ -115,39 +115,39 @@
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 67913,
-    "open_issues_count": 1496,
-    "forks_count": 6024
+    "stargazers_count": 68111,
+    "open_issues_count": 1501,
+    "forks_count": 6047
   },
   {
     "full_name": "nvinayshetty/DTOnator",
-    "stargazers_count": 236,
+    "stargazers_count": 237,
     "open_issues_count": 13,
     "forks_count": 21
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 10335,
-    "open_issues_count": 130,
-    "forks_count": 482
+    "stargazers_count": 10357,
+    "open_issues_count": 132,
+    "forks_count": 484
   },
   {
     "full_name": "sarkahn/bevy_ascii_terminal",
-    "stargazers_count": 59,
-    "open_issues_count": 6,
+    "stargazers_count": 58,
+    "open_issues_count": 7,
     "forks_count": 8
   },
   {
     "full_name": "arrow-kt/arrow",
-    "stargazers_count": 5894,
-    "open_issues_count": 35,
-    "forks_count": 433
+    "stargazers_count": 5898,
+    "open_issues_count": 36,
+    "forks_count": 434
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 21181,
-    "open_issues_count": 316,
-    "forks_count": 2712
+    "stargazers_count": 21230,
+    "open_issues_count": 313,
+    "forks_count": 2732
   },
   {
     "full_name": "betaveros/noulith",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 28679,
-    "open_issues_count": 2752,
-    "forks_count": 2123
+    "stargazers_count": 28730,
+    "open_issues_count": 2774,
+    "forks_count": 2130
   },
   {
     "full_name": "Swatinem/rust-cache",
-    "stargazers_count": 1039,
+    "stargazers_count": 1042,
     "open_issues_count": 25,
     "forks_count": 86
   },
   {
     "full_name": "1Password/typeshare",
-    "stargazers_count": 2218,
-    "open_issues_count": 57,
+    "stargazers_count": 2220,
+    "open_issues_count": 55,
     "forks_count": 79
   }
 ]
