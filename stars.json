@@ -1,43 +1,43 @@
 [
   {
     "full_name": "agencyenterprise/react-native-health",
-    "stargazers_count": 723,
+    "stargazers_count": 726,
     "open_issues_count": 109,
     "forks_count": 214
   },
   {
     "full_name": "ThePrimeagen/refactoring.nvim",
-    "stargazers_count": 2362,
+    "stargazers_count": 2367,
     "open_issues_count": 21,
     "forks_count": 81
   },
   {
     "full_name": "jayphelps/git-blame-someone-else",
-    "stargazers_count": 10520,
+    "stargazers_count": 10526,
     "open_issues_count": 23,
     "forks_count": 265
   },
   {
     "full_name": "emilk/egui",
-    "stargazers_count": 18751,
-    "open_issues_count": 670,
-    "forks_count": 1374
+    "stargazers_count": 18797,
+    "open_issues_count": 664,
+    "forks_count": 1375
   },
   {
     "full_name": "mvlabat/bevy_egui",
-    "stargazers_count": 754,
+    "stargazers_count": 759,
     "open_issues_count": 37,
     "forks_count": 220
   },
   {
     "full_name": "tsulej/GenerateMe",
-    "stargazers_count": 932,
+    "stargazers_count": 933,
     "open_issues_count": 4,
     "forks_count": 234
   },
   {
     "full_name": "EmbarkStudios/rust-gpu",
-    "stargazers_count": 6851,
+    "stargazers_count": 6855,
     "open_issues_count": 107,
     "forks_count": 236
   },
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 26990,
-    "open_issues_count": 1105,
-    "forks_count": 13367
+    "stargazers_count": 27022,
+    "open_issues_count": 1109,
+    "forks_count": 13379
   },
   {
     "full_name": "hundredrabbits/Orca",
-    "stargazers_count": 4398,
+    "stargazers_count": 4400,
     "open_issues_count": 36,
     "forks_count": 226
   },
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 14788,
-    "open_issues_count": 83,
+    "stargazers_count": 14809,
+    "open_issues_count": 81,
     "forks_count": 555
   },
   {
     "full_name": "motion-canvas/examples",
-    "stargazers_count": 950,
+    "stargazers_count": 953,
     "open_issues_count": 2,
     "forks_count": 56
   },
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "cat-milk/Anime-Girls-Holding-Programming-Books",
-    "stargazers_count": 17739,
+    "stargazers_count": 17762,
     "open_issues_count": 33,
-    "forks_count": 890
+    "forks_count": 891
   },
   {
     "full_name": "ansh/jiffyreader.com",
-    "stargazers_count": 3619,
+    "stargazers_count": 3620,
     "open_issues_count": 30,
     "forks_count": 190
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 70032,
-    "open_issues_count": 1540,
-    "forks_count": 6167
+    "stargazers_count": 70275,
+    "open_issues_count": 1547,
+    "forks_count": 6190
   },
   {
     "full_name": "nvinayshetty/DTOnator",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 10532,
-    "open_issues_count": 136,
-    "forks_count": 476
+    "stargazers_count": 10550,
+    "open_issues_count": 137,
+    "forks_count": 477
   },
   {
     "full_name": "sarkahn/bevy_ascii_terminal",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "arrow-kt/arrow",
-    "stargazers_count": 5928,
-    "open_issues_count": 41,
-    "forks_count": 433
+    "stargazers_count": 5933,
+    "open_issues_count": 37,
+    "forks_count": 434
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 21514,
-    "open_issues_count": 333,
-    "forks_count": 2769
+    "stargazers_count": 21553,
+    "open_issues_count": 337,
+    "forks_count": 2774
   },
   {
     "full_name": "betaveros/noulith",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 29326,
-    "open_issues_count": 2820,
-    "forks_count": 2143
+    "stargazers_count": 29393,
+    "open_issues_count": 2819,
+    "forks_count": 2151
   },
   {
     "full_name": "Swatinem/rust-cache",
-    "stargazers_count": 1071,
+    "stargazers_count": 1074,
     "open_issues_count": 30,
-    "forks_count": 87
+    "forks_count": 88
   },
   {
     "full_name": "1Password/typeshare",
-    "stargazers_count": 2236,
+    "stargazers_count": 2237,
     "open_issues_count": 56,
     "forks_count": 81
   }
