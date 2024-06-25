@@ -13,61 +13,61 @@
   },
   {
     "full_name": "TheAppgineer/roon-tui",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "elamperti/OpenWebScrobbler",
     "stargazers_count": 307,
-    "open_issues_count": 34,
+    "open_issues_count": 35,
     "forks_count": 36
   },
   {
     "full_name": "gleam-lang/gleam",
-    "stargazers_count": 16241,
-    "open_issues_count": 194,
-    "forks_count": 675
+    "stargazers_count": 16309,
+    "open_issues_count": 197,
+    "forks_count": 681
   },
   {
     "full_name": "agencyenterprise/react-native-health",
-    "stargazers_count": 791,
+    "stargazers_count": 793,
     "open_issues_count": 113,
-    "forks_count": 225
+    "forks_count": 226
   },
   {
     "full_name": "ThePrimeagen/refactoring.nvim",
-    "stargazers_count": 2608,
+    "stargazers_count": 2611,
     "open_issues_count": 23,
     "forks_count": 80
   },
   {
     "full_name": "jayphelps/git-blame-someone-else",
-    "stargazers_count": 10678,
+    "stargazers_count": 10679,
     "open_issues_count": 23,
     "forks_count": 259
   },
   {
     "full_name": "emilk/egui",
-    "stargazers_count": 20491,
-    "open_issues_count": 748,
-    "forks_count": 1484
+    "stargazers_count": 20535,
+    "open_issues_count": 751,
+    "forks_count": 1489
   },
   {
     "full_name": "mvlabat/bevy_egui",
-    "stargazers_count": 832,
+    "stargazers_count": 835,
     "open_issues_count": 41,
     "forks_count": 235
   },
   {
     "full_name": "tsulej/GenerateMe",
-    "stargazers_count": 950,
+    "stargazers_count": 951,
     "open_issues_count": 4,
     "forks_count": 232
   },
   {
     "full_name": "EmbarkStudios/rust-gpu",
-    "stargazers_count": 7064,
+    "stargazers_count": 7081,
     "open_issues_count": 119,
     "forks_count": 246
   },
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 27729,
-    "open_issues_count": 1099,
-    "forks_count": 13626
+    "stargazers_count": 27768,
+    "open_issues_count": 1110,
+    "forks_count": 13633
   },
   {
     "full_name": "hundredrabbits/Orca",
-    "stargazers_count": 4463,
+    "stargazers_count": 4468,
     "open_issues_count": 37,
     "forks_count": 226
   },
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 15425,
+    "stargazers_count": 15450,
     "open_issues_count": 103,
     "forks_count": 577
   },
   {
     "full_name": "motion-canvas/examples",
-    "stargazers_count": 981,
+    "stargazers_count": 984,
     "open_issues_count": 3,
     "forks_count": 59
   },
@@ -121,33 +121,33 @@
   },
   {
     "full_name": "sumimakito/AwesomeQRCode",
-    "stargazers_count": 1876,
+    "stargazers_count": 1878,
     "open_issues_count": 19,
     "forks_count": 262
   },
   {
     "full_name": "cat-milk/Anime-Girls-Holding-Programming-Books",
-    "stargazers_count": 18195,
-    "open_issues_count": 28,
+    "stargazers_count": 18212,
+    "open_issues_count": 29,
     "forks_count": 914
   },
   {
     "full_name": "ansh/jiffyreader.com",
-    "stargazers_count": 3697,
+    "stargazers_count": 3699,
     "open_issues_count": 31,
     "forks_count": 197
   },
   {
     "full_name": "Poucous/smartReader",
-    "stargazers_count": 66,
+    "stargazers_count": 67,
     "open_issues_count": 8,
     "forks_count": 9
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 76013,
-    "open_issues_count": 1690,
-    "forks_count": 6911
+    "stargazers_count": 76196,
+    "open_issues_count": 1693,
+    "forks_count": 6937
   },
   {
     "full_name": "nvinayshetty/DTOnator",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 11231,
-    "open_issues_count": 140,
-    "forks_count": 506
+    "stargazers_count": 11256,
+    "open_issues_count": 142,
+    "forks_count": 508
   },
   {
     "full_name": "sarkahn/bevy_ascii_terminal",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "arrow-kt/arrow",
-    "stargazers_count": 6046,
+    "stargazers_count": 6053,
     "open_issues_count": 37,
     "forks_count": 438
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 22972,
-    "open_issues_count": 378,
-    "forks_count": 3105
+    "stargazers_count": 23008,
+    "open_issues_count": 381,
+    "forks_count": 3116
   }
 ]
