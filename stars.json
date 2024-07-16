@@ -13,50 +13,50 @@
   },
   {
     "full_name": "TheAppgineer/roon-tui",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "elamperti/OpenWebScrobbler",
     "stargazers_count": 312,
-    "open_issues_count": 40,
+    "open_issues_count": 36,
     "forks_count": 36
   },
   {
     "full_name": "gleam-lang/gleam",
-    "stargazers_count": 16583,
-    "open_issues_count": 209,
-    "forks_count": 696
+    "stargazers_count": 16659,
+    "open_issues_count": 187,
+    "forks_count": 697
   },
   {
     "full_name": "agencyenterprise/react-native-health",
-    "stargazers_count": 803,
+    "stargazers_count": 805,
     "open_issues_count": 113,
-    "forks_count": 226
+    "forks_count": 227
   },
   {
     "full_name": "ThePrimeagen/refactoring.nvim",
-    "stargazers_count": 2653,
+    "stargazers_count": 2661,
     "open_issues_count": 24,
     "forks_count": 80
   },
   {
     "full_name": "jayphelps/git-blame-someone-else",
-    "stargazers_count": 10691,
+    "stargazers_count": 10703,
     "open_issues_count": 22,
     "forks_count": 259
   },
   {
     "full_name": "emilk/egui",
-    "stargazers_count": 20792,
-    "open_issues_count": 757,
-    "forks_count": 1500
+    "stargazers_count": 20847,
+    "open_issues_count": 702,
+    "forks_count": 1504
   },
   {
     "full_name": "mvlabat/bevy_egui",
-    "stargazers_count": 843,
-    "open_issues_count": 41,
+    "stargazers_count": 848,
+    "open_issues_count": 42,
     "forks_count": 239
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "EmbarkStudios/rust-gpu",
-    "stargazers_count": 7128,
+    "stargazers_count": 7140,
     "open_issues_count": 119,
-    "forks_count": 248
+    "forks_count": 247
   },
   {
     "full_name": "aripiprazole/eq",
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 27913,
+    "stargazers_count": 27935,
     "open_issues_count": 1123,
-    "forks_count": 13683
+    "forks_count": 13689
   },
   {
     "full_name": "hundredrabbits/Orca",
-    "stargazers_count": 4482,
+    "stargazers_count": 4483,
     "open_issues_count": 38,
     "forks_count": 227
   },
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 15557,
+    "stargazers_count": 15574,
     "open_issues_count": 105,
-    "forks_count": 581
+    "forks_count": 584
   },
   {
     "full_name": "motion-canvas/examples",
-    "stargazers_count": 993,
+    "stargazers_count": 994,
     "open_issues_count": 3,
     "forks_count": 60
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "cat-milk/Anime-Girls-Holding-Programming-Books",
-    "stargazers_count": 18298,
-    "open_issues_count": 32,
-    "forks_count": 916
+    "stargazers_count": 18420,
+    "open_issues_count": 15,
+    "forks_count": 924
   },
   {
     "full_name": "ansh/jiffyreader.com",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 77205,
-    "open_issues_count": 1714,
-    "forks_count": 7048
+    "stargazers_count": 77396,
+    "open_issues_count": 1724,
+    "forks_count": 7068
   },
   {
     "full_name": "nvinayshetty/DTOnator",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 11345,
+    "stargazers_count": 11379,
     "open_issues_count": 145,
-    "forks_count": 512
+    "forks_count": 514
   },
   {
     "full_name": "sarkahn/bevy_ascii_terminal",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 8,
     "forks_count": 10
   },
   {
     "full_name": "arrow-kt/arrow",
-    "stargazers_count": 6074,
+    "stargazers_count": 6076,
     "open_issues_count": 38,
-    "forks_count": 438
+    "forks_count": 439
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 23205,
-    "open_issues_count": 387,
-    "forks_count": 3169
+    "stargazers_count": 23256,
+    "open_issues_count": 392,
+    "forks_count": 3178
   }
 ]
