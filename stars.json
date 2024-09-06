@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "cachix/devenv",
+    "stargazers_count": 4019,
+    "open_issues_count": 314,
+    "forks_count": 301
+  },
+  {
     "full_name": "utensils/docker-lobsters",
     "stargazers_count": 56,
     "open_issues_count": 10,
@@ -7,14 +13,14 @@
   },
   {
     "full_name": "minad/org-modern",
-    "stargazers_count": 1506,
+    "stargazers_count": 1508,
     "open_issues_count": 0,
     "forks_count": 46
   },
   {
     "full_name": "simonmichael/hledger",
     "stargazers_count": 2906,
-    "open_issues_count": 354,
+    "open_issues_count": 351,
     "forks_count": 315
   },
   {
@@ -25,19 +31,19 @@
   },
   {
     "full_name": "siddhantac/puffin",
-    "stargazers_count": 230,
+    "stargazers_count": 233,
     "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1425,
-    "open_issues_count": 10,
-    "forks_count": 93
+    "stargazers_count": 1434,
+    "open_issues_count": 9,
+    "forks_count": 91
   },
   {
     "full_name": "dschep/ntfy",
-    "stargazers_count": 4820,
+    "stargazers_count": 4821,
     "open_issues_count": 102,
     "forks_count": 213
   },
@@ -49,25 +55,25 @@
   },
   {
     "full_name": "atuinsh/atuin",
-    "stargazers_count": 19982,
+    "stargazers_count": 20042,
     "open_issues_count": 243,
     "forks_count": 541
   },
   {
     "full_name": "elythh/nixvim",
-    "stargazers_count": 129,
+    "stargazers_count": 133,
     "open_issues_count": 0,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 42780,
+    "stargazers_count": 42789,
     "open_issues_count": 10,
     "forks_count": 1085
   },
   {
     "full_name": "ankitpokhrel/jira-cli",
-    "stargazers_count": 3850,
+    "stargazers_count": 3858,
     "open_issues_count": 71,
     "forks_count": 192
   },
@@ -97,37 +103,37 @@
   },
   {
     "full_name": "gleam-lang/gleam",
-    "stargazers_count": 17286,
-    "open_issues_count": 165,
+    "stargazers_count": 17338,
+    "open_issues_count": 162,
     "forks_count": 717
   },
   {
     "full_name": "agencyenterprise/react-native-health",
-    "stargazers_count": 838,
+    "stargazers_count": 841,
     "open_issues_count": 116,
     "forks_count": 232
   },
   {
     "full_name": "ThePrimeagen/refactoring.nvim",
-    "stargazers_count": 2749,
+    "stargazers_count": 2751,
     "open_issues_count": 18,
     "forks_count": 80
   },
   {
     "full_name": "jayphelps/git-blame-someone-else",
-    "stargazers_count": 10771,
+    "stargazers_count": 10774,
     "open_issues_count": 22,
     "forks_count": 259
   },
   {
     "full_name": "emilk/egui",
-    "stargazers_count": 21514,
+    "stargazers_count": 21551,
     "open_issues_count": 751,
-    "forks_count": 1554
+    "forks_count": 1557
   },
   {
     "full_name": "mvlabat/bevy_egui",
-    "stargazers_count": 893,
+    "stargazers_count": 896,
     "open_issues_count": 36,
     "forks_count": 241
   },
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "EmbarkStudios/rust-gpu",
-    "stargazers_count": 7248,
+    "stargazers_count": 7260,
     "open_issues_count": 122,
-    "forks_count": 246
+    "forks_count": 247
   },
   {
     "full_name": "aripiprazole/eq",
@@ -151,19 +157,19 @@
   },
   {
     "full_name": "apache/kafka",
-    "stargazers_count": 28275,
-    "open_issues_count": 1136,
-    "forks_count": 13809
+    "stargazers_count": 28299,
+    "open_issues_count": 1134,
+    "forks_count": 13820
   },
   {
     "full_name": "hundredrabbits/Orca",
-    "stargazers_count": 4526,
+    "stargazers_count": 4525,
     "open_issues_count": 38,
     "forks_count": 229
   },
   {
     "full_name": "3mcd/javelin",
-    "stargazers_count": 194,
+    "stargazers_count": 195,
     "open_issues_count": 8,
     "forks_count": 16
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 22,
     "open_issues_count": 1,
     "forks_count": 3
-  },
-  {
-    "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 15819,
-    "open_issues_count": 105,
-    "forks_count": 590
   }
 ]
