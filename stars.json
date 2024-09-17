@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "0atman/BrainMade-org",
+    "stargazers_count": 58,
+    "open_issues_count": 3,
+    "forks_count": 1
+  },
+  {
     "full_name": "lucy/tewi-font",
     "stargazers_count": 606,
     "open_issues_count": 8,
@@ -13,8 +19,8 @@
   },
   {
     "full_name": "lem-project/lem",
-    "stargazers_count": 2299,
-    "open_issues_count": 135,
+    "stargazers_count": 2310,
+    "open_issues_count": 138,
     "forks_count": 165
   },
   {
@@ -25,21 +31,21 @@
   },
   {
     "full_name": "alphapapa/org-ql",
-    "stargazers_count": 1389,
-    "open_issues_count": 148,
+    "stargazers_count": 1391,
+    "open_issues_count": 150,
     "forks_count": 110
   },
   {
     "full_name": "koekeishiya/yabai",
-    "stargazers_count": 23109,
-    "open_issues_count": 206,
-    "forks_count": 639
+    "stargazers_count": 23134,
+    "open_issues_count": 208,
+    "forks_count": 641
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 4040,
-    "open_issues_count": 321,
-    "forks_count": 303
+    "stargazers_count": 4051,
+    "open_issues_count": 326,
+    "forks_count": 304
   },
   {
     "full_name": "utensils/docker-lobsters",
@@ -49,37 +55,37 @@
   },
   {
     "full_name": "minad/org-modern",
-    "stargazers_count": 1507,
+    "stargazers_count": 1513,
     "open_issues_count": 0,
     "forks_count": 46
   },
   {
     "full_name": "simonmichael/hledger",
-    "stargazers_count": 2912,
+    "stargazers_count": 2926,
     "open_issues_count": 355,
     "forks_count": 317
   },
   {
     "full_name": "simonmichael/hledger_site",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 5,
     "forks_count": 38
   },
   {
     "full_name": "siddhantac/puffin",
-    "stargazers_count": 239,
+    "stargazers_count": 246,
     "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1455,
+    "stargazers_count": 1469,
     "open_issues_count": 10,
-    "forks_count": 91
+    "forks_count": 93
   },
   {
     "full_name": "dschep/ntfy",
-    "stargazers_count": 4823,
+    "stargazers_count": 4822,
     "open_issues_count": 103,
     "forks_count": 214
   },
@@ -91,27 +97,27 @@
   },
   {
     "full_name": "atuinsh/atuin",
-    "stargazers_count": 20114,
-    "open_issues_count": 242,
-    "forks_count": 543
+    "stargazers_count": 20153,
+    "open_issues_count": 245,
+    "forks_count": 545
   },
   {
     "full_name": "elythh/nixvim",
-    "stargazers_count": 135,
+    "stargazers_count": 137,
     "open_issues_count": 1,
     "forks_count": 32
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 42823,
-    "open_issues_count": 11,
-    "forks_count": 1089
+    "stargazers_count": 42842,
+    "open_issues_count": 10,
+    "forks_count": 1091
   },
   {
     "full_name": "ankitpokhrel/jira-cli",
-    "stargazers_count": 3872,
-    "open_issues_count": 72,
-    "forks_count": 192
+    "stargazers_count": 3883,
+    "open_issues_count": 73,
+    "forks_count": 193
   },
   {
     "full_name": "lazykern/kindle-cloud-reader-rpc",
@@ -133,50 +139,44 @@
   },
   {
     "full_name": "elamperti/OpenWebScrobbler",
-    "stargazers_count": 318,
-    "open_issues_count": 39,
+    "stargazers_count": 319,
+    "open_issues_count": 35,
     "forks_count": 38
   },
   {
     "full_name": "gleam-lang/gleam",
-    "stargazers_count": 17387,
-    "open_issues_count": 163,
-    "forks_count": 722
+    "stargazers_count": 17462,
+    "open_issues_count": 165,
+    "forks_count": 725
   },
   {
     "full_name": "agencyenterprise/react-native-health",
-    "stargazers_count": 847,
+    "stargazers_count": 849,
     "open_issues_count": 116,
-    "forks_count": 232
+    "forks_count": 233
   },
   {
     "full_name": "ThePrimeagen/refactoring.nvim",
-    "stargazers_count": 2763,
+    "stargazers_count": 2768,
     "open_issues_count": 18,
     "forks_count": 81
   },
   {
     "full_name": "jayphelps/git-blame-someone-else",
-    "stargazers_count": 10785,
+    "stargazers_count": 10783,
     "open_issues_count": 22,
     "forks_count": 259
   },
   {
     "full_name": "emilk/egui",
-    "stargazers_count": 21624,
-    "open_issues_count": 743,
-    "forks_count": 1561
+    "stargazers_count": 21676,
+    "open_issues_count": 742,
+    "forks_count": 1562
   },
   {
     "full_name": "mvlabat/bevy_egui",
-    "stargazers_count": 895,
+    "stargazers_count": 898,
     "open_issues_count": 37,
     "forks_count": 240
-  },
-  {
-    "full_name": "tsulej/GenerateMe",
-    "stargazers_count": 956,
-    "open_issues_count": 4,
-    "forks_count": 231
   }
 ]
