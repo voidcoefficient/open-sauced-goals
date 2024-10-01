@@ -1,5 +1,41 @@
 [
   {
+    "full_name": "convos-chat/convos",
+    "stargazers_count": 1036,
+    "open_issues_count": 27,
+    "forks_count": 82
+  },
+  {
+    "full_name": "oupala/apaxy",
+    "stargazers_count": 1862,
+    "open_issues_count": 0,
+    "forks_count": 256
+  },
+  {
+    "full_name": "awesome-selfhosted/awesome-selfhosted",
+    "stargazers_count": 196760,
+    "open_issues_count": 0,
+    "forks_count": 9514
+  },
+  {
+    "full_name": "yourselfhosted/slash",
+    "stargazers_count": 1689,
+    "open_issues_count": 10,
+    "forks_count": 86
+  },
+  {
+    "full_name": "usememos/memos",
+    "stargazers_count": 30484,
+    "open_issues_count": 35,
+    "forks_count": 2288
+  },
+  {
+    "full_name": "NixOS/nix",
+    "stargazers_count": 12271,
+    "open_issues_count": 3420,
+    "forks_count": 1478
+  },
+  {
     "full_name": "magit/emacsql",
     "stargazers_count": 552,
     "open_issues_count": 0,
@@ -7,7 +43,7 @@
   },
   {
     "full_name": "Cay-Zhang/RSSBud",
-    "stargazers_count": 1282,
+    "stargazers_count": 1287,
     "open_issues_count": 6,
     "forks_count": 37
   },
@@ -19,13 +55,13 @@
   },
   {
     "full_name": "positron-solutions/transient-showcase",
-    "stargazers_count": 195,
+    "stargazers_count": 196,
     "open_issues_count": 5,
     "forks_count": 22
   },
   {
     "full_name": "0atman/BrainMade-org",
-    "stargazers_count": 61,
+    "stargazers_count": 62,
     "open_issues_count": 3,
     "forks_count": 1
   },
@@ -43,9 +79,9 @@
   },
   {
     "full_name": "lem-project/lem",
-    "stargazers_count": 2323,
-    "open_issues_count": 135,
-    "forks_count": 166
+    "stargazers_count": 2325,
+    "open_issues_count": 138,
+    "forks_count": 169
   },
   {
     "full_name": "akhramov/org-wild-notifier.el",
@@ -55,21 +91,21 @@
   },
   {
     "full_name": "alphapapa/org-ql",
-    "stargazers_count": 1398,
-    "open_issues_count": 151,
+    "stargazers_count": 1400,
+    "open_issues_count": 152,
     "forks_count": 110
   },
   {
     "full_name": "koekeishiya/yabai",
-    "stargazers_count": 23235,
-    "open_issues_count": 210,
-    "forks_count": 642
+    "stargazers_count": 23265,
+    "open_issues_count": 215,
+    "forks_count": 641
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 4100,
-    "open_issues_count": 337,
-    "forks_count": 307
+    "stargazers_count": 4125,
+    "open_issues_count": 330,
+    "forks_count": 311
   },
   {
     "full_name": "utensils/docker-lobsters",
@@ -79,15 +115,15 @@
   },
   {
     "full_name": "minad/org-modern",
-    "stargazers_count": 1519,
+    "stargazers_count": 1521,
     "open_issues_count": 0,
     "forks_count": 48
   },
   {
     "full_name": "simonmichael/hledger",
-    "stargazers_count": 2949,
+    "stargazers_count": 2965,
     "open_issues_count": 351,
-    "forks_count": 316
+    "forks_count": 317
   },
   {
     "full_name": "simonmichael/hledger_site",
@@ -97,14 +133,14 @@
   },
   {
     "full_name": "siddhantac/puffin",
-    "stargazers_count": 253,
+    "stargazers_count": 262,
     "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1494,
-    "open_issues_count": 11,
+    "stargazers_count": 1510,
+    "open_issues_count": 12,
     "forks_count": 95
   },
   {
@@ -115,68 +151,32 @@
   },
   {
     "full_name": "nix-community/lorri",
-    "stargazers_count": 675,
+    "stargazers_count": 676,
     "open_issues_count": 35,
     "forks_count": 24
   },
   {
     "full_name": "atuinsh/atuin",
-    "stargazers_count": 20286,
-    "open_issues_count": 253,
+    "stargazers_count": 20325,
+    "open_issues_count": 255,
     "forks_count": 549
   },
   {
     "full_name": "elythh/nixvim",
-    "stargazers_count": 148,
+    "stargazers_count": 147,
     "open_issues_count": 1,
     "forks_count": 33
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 42904,
-    "open_issues_count": 8,
-    "forks_count": 1091
+    "stargazers_count": 42917,
+    "open_issues_count": 9,
+    "forks_count": 1090
   },
   {
     "full_name": "ankitpokhrel/jira-cli",
-    "stargazers_count": 3895,
-    "open_issues_count": 75,
-    "forks_count": 196
-  },
-  {
-    "full_name": "lazykern/kindle-cloud-reader-rpc",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Nepherte/homebrew-roon",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "TheAppgineer/roon-tui",
-    "stargazers_count": 42,
-    "open_issues_count": 4,
-    "forks_count": 2
-  },
-  {
-    "full_name": "elamperti/OpenWebScrobbler",
-    "stargazers_count": 319,
-    "open_issues_count": 36,
-    "forks_count": 37
-  },
-  {
-    "full_name": "gleam-lang/gleam",
-    "stargazers_count": 17568,
-    "open_issues_count": 166,
-    "forks_count": 732
-  },
-  {
-    "full_name": "agencyenterprise/react-native-health",
-    "stargazers_count": 858,
-    "open_issues_count": 117,
-    "forks_count": 233
+    "stargazers_count": 3900,
+    "open_issues_count": 76,
+    "forks_count": 197
   }
 ]
