@@ -13,13 +13,13 @@
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 14274,
-    "open_issues_count": 398,
-    "forks_count": 889
+    "stargazers_count": 15035,
+    "open_issues_count": 411,
+    "forks_count": 916
   },
   {
     "full_name": "bergercookie/syncall",
-    "stargazers_count": 436,
+    "stargazers_count": 437,
     "open_issues_count": 6,
     "forks_count": 40
   },
@@ -33,7 +33,7 @@
     "full_name": "convos-chat/convos",
     "stargazers_count": 1039,
     "open_issues_count": 27,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "oupala/apaxy",
@@ -43,26 +43,26 @@
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 198688,
+    "stargazers_count": 199131,
     "open_issues_count": 0,
-    "forks_count": 9569
+    "forks_count": 9591
   },
   {
     "full_name": "yourselfhosted/slash",
-    "stargazers_count": 1747,
+    "stargazers_count": 1756,
     "open_issues_count": 10,
-    "forks_count": 89
+    "forks_count": 90
   },
   {
     "full_name": "usememos/memos",
-    "stargazers_count": 30790,
-    "open_issues_count": 34,
-    "forks_count": 2302
+    "stargazers_count": 30870,
+    "open_issues_count": 36,
+    "forks_count": 2312
   },
   {
     "full_name": "NixOS/nix",
-    "stargazers_count": 12454,
-    "open_issues_count": 3445,
+    "stargazers_count": 12496,
+    "open_issues_count": 3448,
     "forks_count": 1498
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "Cay-Zhang/RSSBud",
-    "stargazers_count": 1294,
+    "stargazers_count": 1298,
     "open_issues_count": 6,
     "forks_count": 37
   },
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "lem-project/lem",
-    "stargazers_count": 2358,
-    "open_issues_count": 141,
+    "stargazers_count": 2361,
+    "open_issues_count": 140,
     "forks_count": 172
   },
   {
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "alphapapa/org-ql",
-    "stargazers_count": 1406,
+    "stargazers_count": 1408,
     "open_issues_count": 152,
     "forks_count": 110
   },
   {
     "full_name": "koekeishiya/yabai",
-    "stargazers_count": 23385,
-    "open_issues_count": 216,
+    "stargazers_count": 23408,
+    "open_issues_count": 217,
     "forks_count": 643
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 4225,
-    "open_issues_count": 339,
-    "forks_count": 317
+    "stargazers_count": 4263,
+    "open_issues_count": 343,
+    "forks_count": 322
   },
   {
     "full_name": "utensils/docker-lobsters",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "minad/org-modern",
-    "stargazers_count": 1531,
+    "stargazers_count": 1533,
     "open_issues_count": 0,
     "forks_count": 48
   },
   {
     "full_name": "simonmichael/hledger",
-    "stargazers_count": 2995,
-    "open_issues_count": 353,
-    "forks_count": 318
+    "stargazers_count": 2997,
+    "open_issues_count": 354,
+    "forks_count": 320
   },
   {
     "full_name": "simonmichael/hledger_site",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "siddhantac/puffin",
-    "stargazers_count": 267,
+    "stargazers_count": 269,
     "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1577,
+    "stargazers_count": 1594,
     "open_issues_count": 10,
-    "forks_count": 97
+    "forks_count": 98
   },
   {
     "full_name": "dschep/ntfy",
-    "stargazers_count": 4827,
+    "stargazers_count": 4828,
     "open_issues_count": 103,
     "forks_count": 214
   }
