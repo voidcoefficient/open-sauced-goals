@@ -1,31 +1,31 @@
 [
   {
     "full_name": "confluentinc/kafka-streams-examples",
-    "stargazers_count": 64,
+    "stargazers_count": 66,
     "open_issues_count": 28,
     "forks_count": 1148
   },
   {
     "full_name": "alphapapa/magit-todos",
-    "stargazers_count": 742,
+    "stargazers_count": 743,
     "open_issues_count": 26,
     "forks_count": 48
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 15035,
-    "open_issues_count": 411,
-    "forks_count": 916
+    "stargazers_count": 15625,
+    "open_issues_count": 420,
+    "forks_count": 948
   },
   {
     "full_name": "bergercookie/syncall",
-    "stargazers_count": 437,
-    "open_issues_count": 6,
+    "stargazers_count": 439,
+    "open_issues_count": 4,
     "forks_count": 40
   },
   {
     "full_name": "flickerfly/taskwarrior-notifications",
-    "stargazers_count": 150,
+    "stargazers_count": 151,
     "open_issues_count": 2,
     "forks_count": 25
   },
@@ -43,37 +43,37 @@
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 199131,
+    "stargazers_count": 199717,
     "open_issues_count": 0,
-    "forks_count": 9591
+    "forks_count": 9606
   },
   {
     "full_name": "yourselfhosted/slash",
-    "stargazers_count": 1756,
+    "stargazers_count": 1765,
     "open_issues_count": 10,
-    "forks_count": 90
+    "forks_count": 92
   },
   {
     "full_name": "usememos/memos",
-    "stargazers_count": 30870,
-    "open_issues_count": 36,
-    "forks_count": 2312
+    "stargazers_count": 30950,
+    "open_issues_count": 31,
+    "forks_count": 2320
   },
   {
     "full_name": "NixOS/nix",
-    "stargazers_count": 12496,
-    "open_issues_count": 3448,
-    "forks_count": 1498
+    "stargazers_count": 12543,
+    "open_issues_count": 3445,
+    "forks_count": 1502
   },
   {
     "full_name": "magit/emacsql",
-    "stargazers_count": 552,
+    "stargazers_count": 553,
     "open_issues_count": 0,
     "forks_count": 41
   },
   {
     "full_name": "Cay-Zhang/RSSBud",
-    "stargazers_count": 1298,
+    "stargazers_count": 1301,
     "open_issues_count": 6,
     "forks_count": 37
   },
@@ -86,30 +86,30 @@
   {
     "full_name": "positron-solutions/transient-showcase",
     "stargazers_count": 200,
-    "open_issues_count": 5,
+    "open_issues_count": 2,
     "forks_count": 22
   },
   {
     "full_name": "0atman/BrainMade-org",
-    "stargazers_count": 68,
-    "open_issues_count": 3,
+    "stargazers_count": 72,
+    "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "lucy/tewi-font",
-    "stargazers_count": 608,
+    "stargazers_count": 607,
     "open_issues_count": 8,
     "forks_count": 22
   },
   {
     "full_name": "clemera/objed",
-    "stargazers_count": 331,
+    "stargazers_count": 332,
     "open_issues_count": 24,
     "forks_count": 21
   },
   {
     "full_name": "lem-project/lem",
-    "stargazers_count": 2361,
+    "stargazers_count": 2370,
     "open_issues_count": 140,
     "forks_count": 172
   },
@@ -121,20 +121,20 @@
   },
   {
     "full_name": "alphapapa/org-ql",
-    "stargazers_count": 1408,
-    "open_issues_count": 152,
+    "stargazers_count": 1410,
+    "open_issues_count": 151,
     "forks_count": 110
   },
   {
     "full_name": "koekeishiya/yabai",
-    "stargazers_count": 23408,
-    "open_issues_count": 217,
-    "forks_count": 643
+    "stargazers_count": 23448,
+    "open_issues_count": 220,
+    "forks_count": 644
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 4263,
-    "open_issues_count": 343,
+    "stargazers_count": 4287,
+    "open_issues_count": 345,
     "forks_count": 322
   },
   {
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "minad/org-modern",
-    "stargazers_count": 1533,
+    "stargazers_count": 1537,
     "open_issues_count": 0,
     "forks_count": 48
   },
   {
     "full_name": "simonmichael/hledger",
-    "stargazers_count": 2997,
+    "stargazers_count": 3001,
     "open_issues_count": 354,
-    "forks_count": 320
+    "forks_count": 321
   },
   {
     "full_name": "simonmichael/hledger_site",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "siddhantac/puffin",
-    "stargazers_count": 269,
+    "stargazers_count": 268,
     "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1594,
+    "stargazers_count": 1619,
     "open_issues_count": 10,
-    "forks_count": 98
+    "forks_count": 102
   },
   {
     "full_name": "dschep/ntfy",
-    "stargazers_count": 4828,
+    "stargazers_count": 4830,
     "open_issues_count": 103,
     "forks_count": 214
   }
