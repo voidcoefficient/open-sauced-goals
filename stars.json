@@ -1,32 +1,38 @@
 [
   {
+    "full_name": "valkey-io/valkey",
+    "stargazers_count": 17086,
+    "open_issues_count": 304,
+    "forks_count": 641
+  },
+  {
     "full_name": "idimetrix/cv",
-    "stargazers_count": 31,
+    "stargazers_count": 39,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "confluentinc/kafka-streams-examples",
-    "stargazers_count": 69,
+    "stargazers_count": 71,
     "open_issues_count": 29,
     "forks_count": 1147
   },
   {
     "full_name": "alphapapa/magit-todos",
-    "stargazers_count": 743,
+    "stargazers_count": 744,
     "open_issues_count": 26,
     "forks_count": 48
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 16522,
-    "open_issues_count": 432,
-    "forks_count": 996
+    "stargazers_count": 16802,
+    "open_issues_count": 436,
+    "forks_count": 1014
   },
   {
     "full_name": "bergercookie/syncall",
-    "stargazers_count": 443,
-    "open_issues_count": 3,
+    "stargazers_count": 445,
+    "open_issues_count": 2,
     "forks_count": 40
   },
   {
@@ -37,39 +43,39 @@
   },
   {
     "full_name": "convos-chat/convos",
-    "stargazers_count": 1043,
+    "stargazers_count": 1046,
     "open_issues_count": 29,
     "forks_count": 83
   },
   {
     "full_name": "oupala/apaxy",
-    "stargazers_count": 1870,
+    "stargazers_count": 1871,
     "open_issues_count": 0,
     "forks_count": 257
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 201147,
+    "stargazers_count": 201667,
     "open_issues_count": 0,
-    "forks_count": 9644
+    "forks_count": 9658
   },
   {
     "full_name": "yourselfhosted/slash",
-    "stargazers_count": 1823,
+    "stargazers_count": 1877,
     "open_issues_count": 10,
-    "forks_count": 95
+    "forks_count": 97
   },
   {
     "full_name": "usememos/memos",
-    "stargazers_count": 32424,
-    "open_issues_count": 37,
-    "forks_count": 2401
+    "stargazers_count": 33624,
+    "open_issues_count": 34,
+    "forks_count": 2435
   },
   {
     "full_name": "NixOS/nix",
-    "stargazers_count": 12641,
-    "open_issues_count": 3457,
-    "forks_count": 1512
+    "stargazers_count": 12695,
+    "open_issues_count": 3459,
+    "forks_count": 1511
   },
   {
     "full_name": "magit/emacsql",
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "Cay-Zhang/RSSBud",
-    "stargazers_count": 1305,
+    "stargazers_count": 1306,
     "open_issues_count": 6,
     "forks_count": 37
   },
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "positron-solutions/transient-showcase",
-    "stargazers_count": 203,
+    "stargazers_count": 204,
     "open_issues_count": 2,
     "forks_count": 22
   },
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "lem-project/lem",
-    "stargazers_count": 2382,
+    "stargazers_count": 2385,
     "open_issues_count": 142,
     "forks_count": 175
   },
@@ -127,20 +133,20 @@
   },
   {
     "full_name": "alphapapa/org-ql",
-    "stargazers_count": 1413,
+    "stargazers_count": 1415,
     "open_issues_count": 151,
     "forks_count": 110
   },
   {
     "full_name": "koekeishiya/yabai",
-    "stargazers_count": 23741,
-    "open_issues_count": 226,
-    "forks_count": 647
+    "stargazers_count": 23843,
+    "open_issues_count": 204,
+    "forks_count": 650
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 4383,
-    "open_issues_count": 351,
+    "stargazers_count": 4399,
+    "open_issues_count": 355,
     "forks_count": 330
   },
   {
@@ -151,14 +157,14 @@
   },
   {
     "full_name": "minad/org-modern",
-    "stargazers_count": 1542,
+    "stargazers_count": 1548,
     "open_issues_count": 0,
     "forks_count": 48
   },
   {
     "full_name": "simonmichael/hledger",
-    "stargazers_count": 3015,
-    "open_issues_count": 359,
+    "stargazers_count": 3022,
+    "open_issues_count": 358,
     "forks_count": 321
   },
   {
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "siddhantac/puffin",
-    "stargazers_count": 272,
+    "stargazers_count": 273,
     "open_issues_count": 6,
     "forks_count": 6
-  },
-  {
-    "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1666,
-    "open_issues_count": 13,
-    "forks_count": 103
   }
 ]
