@@ -1,38 +1,38 @@
 [
   {
     "full_name": "valkey-io/valkey",
-    "stargazers_count": 17352,
-    "open_issues_count": 310,
-    "forks_count": 655
+    "stargazers_count": 17403,
+    "open_issues_count": 307,
+    "forks_count": 656
   },
   {
     "full_name": "idimetrix/cv",
-    "stargazers_count": 58,
+    "stargazers_count": 63,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "confluentinc/kafka-streams-examples",
-    "stargazers_count": 74,
-    "open_issues_count": 29,
+    "stargazers_count": 76,
+    "open_issues_count": 30,
     "forks_count": 1148
   },
   {
     "full_name": "alphapapa/magit-todos",
-    "stargazers_count": 745,
+    "stargazers_count": 746,
     "open_issues_count": 26,
     "forks_count": 48
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 17399,
+    "stargazers_count": 17484,
     "open_issues_count": 441,
-    "forks_count": 1049
+    "forks_count": 1051
   },
   {
     "full_name": "bergercookie/syncall",
-    "stargazers_count": 452,
-    "open_issues_count": 3,
+    "stargazers_count": 453,
+    "open_issues_count": 4,
     "forks_count": 41
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "convos-chat/convos",
-    "stargazers_count": 1043,
+    "stargazers_count": 1042,
     "open_issues_count": 30,
     "forks_count": 83
   },
@@ -55,37 +55,37 @@
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 204017,
+    "stargazers_count": 204497,
     "open_issues_count": 0,
-    "forks_count": 9733
+    "forks_count": 9748
   },
   {
     "full_name": "yourselfhosted/slash",
-    "stargazers_count": 1942,
+    "stargazers_count": 1955,
     "open_issues_count": 10,
     "forks_count": 101
   },
   {
     "full_name": "usememos/memos",
-    "stargazers_count": 34409,
+    "stargazers_count": 34589,
     "open_issues_count": 29,
-    "forks_count": 2486
+    "forks_count": 2489
   },
   {
     "full_name": "NixOS/nix",
-    "stargazers_count": 12862,
-    "open_issues_count": 3496,
-    "forks_count": 1523
+    "stargazers_count": 12899,
+    "open_issues_count": 3500,
+    "forks_count": 1528
   },
   {
     "full_name": "magit/emacsql",
-    "stargazers_count": 557,
-    "open_issues_count": 1,
+    "stargazers_count": 556,
+    "open_issues_count": 2,
     "forks_count": 41
   },
   {
     "full_name": "Cay-Zhang/RSSBud",
-    "stargazers_count": 1320,
+    "stargazers_count": 1324,
     "open_issues_count": 6,
     "forks_count": 38
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "positron-solutions/transient-showcase",
-    "stargazers_count": 211,
+    "stargazers_count": 212,
     "open_issues_count": 2,
     "forks_count": 22
   },
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "clemera/objed",
-    "stargazers_count": 332,
+    "stargazers_count": 331,
     "open_issues_count": 24,
     "forks_count": 21
   },
   {
     "full_name": "lem-project/lem",
     "stargazers_count": 2396,
-    "open_issues_count": 157,
-    "forks_count": 177
+    "open_issues_count": 159,
+    "forks_count": 179
   },
   {
     "full_name": "akhramov/org-wild-notifier.el",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "koekeishiya/yabai",
-    "stargazers_count": 24079,
-    "open_issues_count": 209,
-    "forks_count": 649
+    "stargazers_count": 24136,
+    "open_issues_count": 210,
+    "forks_count": 646
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 4479,
-    "open_issues_count": 355,
-    "forks_count": 338
+    "stargazers_count": 4492,
+    "open_issues_count": 358,
+    "forks_count": 339
   },
   {
     "full_name": "utensils/docker-lobsters",
@@ -157,14 +157,14 @@
   },
   {
     "full_name": "minad/org-modern",
-    "stargazers_count": 1556,
+    "stargazers_count": 1557,
     "open_issues_count": 0,
     "forks_count": 48
   },
   {
     "full_name": "simonmichael/hledger",
-    "stargazers_count": 3056,
-    "open_issues_count": 363,
+    "stargazers_count": 3066,
+    "open_issues_count": 364,
     "forks_count": 320
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "siddhantac/puffin",
-    "stargazers_count": 278,
+    "stargazers_count": 283,
     "open_issues_count": 6,
     "forks_count": 6
   }
