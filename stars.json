@@ -7,19 +7,19 @@
   },
   {
     "full_name": "valkey-io/valkey",
-    "stargazers_count": 17700,
-    "open_issues_count": 310,
-    "forks_count": 669
+    "stargazers_count": 17830,
+    "open_issues_count": 314,
+    "forks_count": 678
   },
   {
     "full_name": "idimetrix/cv",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "confluentinc/kafka-streams-examples",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 29,
     "forks_count": 1149
   },
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 17591,
-    "open_issues_count": 445,
-    "forks_count": 1071
+    "stargazers_count": 17632,
+    "open_issues_count": 447,
+    "forks_count": 1075
   },
   {
     "full_name": "bergercookie/syncall",
-    "stargazers_count": 456,
+    "stargazers_count": 459,
     "open_issues_count": 5,
     "forks_count": 41
   },
@@ -49,49 +49,49 @@
   },
   {
     "full_name": "convos-chat/convos",
-    "stargazers_count": 1043,
+    "stargazers_count": 1044,
     "open_issues_count": 30,
     "forks_count": 83
   },
   {
     "full_name": "oupala/apaxy",
-    "stargazers_count": 1871,
+    "stargazers_count": 1872,
     "open_issues_count": 0,
     "forks_count": 257
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 205360,
+    "stargazers_count": 205786,
     "open_issues_count": 0,
-    "forks_count": 9766
+    "forks_count": 9794
   },
   {
     "full_name": "yourselfhosted/slash",
-    "stargazers_count": 1983,
+    "stargazers_count": 2001,
     "open_issues_count": 11,
     "forks_count": 103
   },
   {
     "full_name": "usememos/memos",
-    "stargazers_count": 34833,
-    "open_issues_count": 25,
-    "forks_count": 2497
+    "stargazers_count": 34907,
+    "open_issues_count": 30,
+    "forks_count": 2501
   },
   {
     "full_name": "NixOS/nix",
-    "stargazers_count": 12945,
-    "open_issues_count": 3496,
-    "forks_count": 1534
+    "stargazers_count": 12964,
+    "open_issues_count": 3502,
+    "forks_count": 1536
   },
   {
     "full_name": "magit/emacsql",
-    "stargazers_count": 558,
+    "stargazers_count": 560,
     "open_issues_count": 0,
     "forks_count": 41
   },
   {
     "full_name": "Cay-Zhang/RSSBud",
-    "stargazers_count": 1328,
+    "stargazers_count": 1329,
     "open_issues_count": 6,
     "forks_count": 38
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "positron-solutions/transient-showcase",
-    "stargazers_count": 213,
+    "stargazers_count": 215,
     "open_issues_count": 2,
     "forks_count": 22
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "lem-project/lem",
-    "stargazers_count": 2414,
-    "open_issues_count": 162,
-    "forks_count": 182
+    "stargazers_count": 2416,
+    "open_issues_count": 167,
+    "forks_count": 183
   },
   {
     "full_name": "akhramov/org-wild-notifier.el",
@@ -140,20 +140,20 @@
   {
     "full_name": "alphapapa/org-ql",
     "stargazers_count": 1426,
-    "open_issues_count": 151,
+    "open_issues_count": 152,
     "forks_count": 110
   },
   {
     "full_name": "koekeishiya/yabai",
-    "stargazers_count": 24208,
-    "open_issues_count": 212,
-    "forks_count": 645
+    "stargazers_count": 24248,
+    "open_issues_count": 213,
+    "forks_count": 646
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 4539,
-    "open_issues_count": 358,
-    "forks_count": 340
+    "stargazers_count": 4553,
+    "open_issues_count": 365,
+    "forks_count": 343
   },
   {
     "full_name": "utensils/docker-lobsters",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "minad/org-modern",
-    "stargazers_count": 1562,
+    "stargazers_count": 1566,
     "open_issues_count": 0,
     "forks_count": 48
   },
   {
     "full_name": "simonmichael/hledger",
-    "stargazers_count": 3077,
-    "open_issues_count": 361,
+    "stargazers_count": 3081,
+    "open_issues_count": 359,
     "forks_count": 320
   },
   {
     "full_name": "simonmichael/hledger_site",
     "stargazers_count": 71,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 40
   }
 ]
