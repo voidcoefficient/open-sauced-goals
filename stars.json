@@ -1,21 +1,21 @@
 [
   {
     "full_name": "codicocodes/dotfyle",
-    "stargazers_count": 810,
+    "stargazers_count": 813,
     "open_issues_count": 40,
     "forks_count": 33
   },
   {
     "full_name": "nvim-neorg/neorg",
-    "stargazers_count": 6560,
+    "stargazers_count": 6569,
     "open_issues_count": 189,
     "forks_count": 216
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 9970,
-    "open_issues_count": 495,
-    "forks_count": 349
+    "stargazers_count": 10029,
+    "open_issues_count": 500,
+    "forks_count": 350
   },
   {
     "full_name": "tschaefer/taskwarrior-calendar",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "valkey-io/valkey",
-    "stargazers_count": 18142,
-    "open_issues_count": 320,
+    "stargazers_count": 18187,
+    "open_issues_count": 322,
     "forks_count": 691
   },
   {
     "full_name": "idimetrix/cv",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -39,25 +39,25 @@
     "full_name": "confluentinc/kafka-streams-examples",
     "stargazers_count": 80,
     "open_issues_count": 18,
-    "forks_count": 1149
+    "forks_count": 1150
   },
   {
     "full_name": "alphapapa/magit-todos",
-    "stargazers_count": 755,
+    "stargazers_count": 754,
     "open_issues_count": 26,
     "forks_count": 48
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 17898,
-    "open_issues_count": 542,
-    "forks_count": 1097
+    "stargazers_count": 17941,
+    "open_issues_count": 547,
+    "forks_count": 1100
   },
   {
     "full_name": "bergercookie/syncall",
-    "stargazers_count": 469,
+    "stargazers_count": 471,
     "open_issues_count": 8,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "flickerfly/taskwarrior-notifications",
@@ -73,33 +73,33 @@
   },
   {
     "full_name": "oupala/apaxy",
-    "stargazers_count": 1872,
+    "stargazers_count": 1873,
     "open_issues_count": 0,
     "forks_count": 258
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 208761,
+    "stargazers_count": 209188,
     "open_issues_count": 0,
-    "forks_count": 9918
+    "forks_count": 9935
   },
   {
     "full_name": "yourselfhosted/slash",
-    "stargazers_count": 2052,
-    "open_issues_count": 11,
+    "stargazers_count": 2062,
+    "open_issues_count": 12,
     "forks_count": 103
   },
   {
     "full_name": "usememos/memos",
-    "stargazers_count": 35290,
-    "open_issues_count": 33,
-    "forks_count": 2541
+    "stargazers_count": 35431,
+    "open_issues_count": 30,
+    "forks_count": 2547
   },
   {
     "full_name": "NixOS/nix",
-    "stargazers_count": 13123,
-    "open_issues_count": 3510,
-    "forks_count": 1549
+    "stargazers_count": 13164,
+    "open_issues_count": 3518,
+    "forks_count": 1553
   },
   {
     "full_name": "magit/emacsql",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "Cay-Zhang/RSSBud",
-    "stargazers_count": 1335,
+    "stargazers_count": 1334,
     "open_issues_count": 6,
     "forks_count": 38
   },
@@ -122,12 +122,12 @@
   {
     "full_name": "positron-solutions/transient-showcase",
     "stargazers_count": 218,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 22
   },
   {
     "full_name": "0atman/BrainMade-org",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 4,
     "forks_count": 2
   },
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "lem-project/lem",
-    "stargazers_count": 2447,
-    "open_issues_count": 164,
+    "stargazers_count": 2451,
+    "open_issues_count": 165,
     "forks_count": 186
   },
   {
@@ -157,25 +157,25 @@
   },
   {
     "full_name": "alphapapa/org-ql",
-    "stargazers_count": 1440,
+    "stargazers_count": 1443,
     "open_issues_count": 155,
     "forks_count": 109
   },
   {
     "full_name": "koekeishiya/yabai",
-    "stargazers_count": 24400,
-    "open_issues_count": 221,
-    "forks_count": 648
+    "stargazers_count": 24421,
+    "open_issues_count": 222,
+    "forks_count": 649
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 4638,
+    "stargazers_count": 4646,
     "open_issues_count": 371,
     "forks_count": 346
   },
   {
     "full_name": "utensils/docker-lobsters",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 12,
     "forks_count": 41
   }
