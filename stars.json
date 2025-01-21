@@ -1,27 +1,27 @@
 [
   {
     "full_name": "facundoolano/software-papers",
-    "stargazers_count": 5569,
+    "stargazers_count": 5584,
     "open_issues_count": 3,
-    "forks_count": 267
+    "forks_count": 269
   },
   {
     "full_name": "codicocodes/dotfyle",
-    "stargazers_count": 848,
+    "stargazers_count": 850,
     "open_issues_count": 42,
     "forks_count": 34
   },
   {
     "full_name": "nvim-neorg/neorg",
-    "stargazers_count": 6610,
+    "stargazers_count": 6617,
     "open_issues_count": 192,
-    "forks_count": 220
+    "forks_count": 219
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 10511,
-    "open_issues_count": 514,
-    "forks_count": 376
+    "stargazers_count": 10607,
+    "open_issues_count": 525,
+    "forks_count": 380
   },
   {
     "full_name": "tschaefer/taskwarrior-calendar",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "valkey-io/valkey",
-    "stargazers_count": 18452,
-    "open_issues_count": 311,
-    "forks_count": 701
+    "stargazers_count": 18485,
+    "open_issues_count": 315,
+    "forks_count": 702
   },
   {
     "full_name": "idimetrix/cv",
@@ -43,25 +43,25 @@
   },
   {
     "full_name": "confluentinc/kafka-streams-examples",
-    "stargazers_count": 88,
+    "stargazers_count": 89,
     "open_issues_count": 18,
-    "forks_count": 1149
+    "forks_count": 1147
   },
   {
     "full_name": "alphapapa/magit-todos",
-    "stargazers_count": 755,
+    "stargazers_count": 756,
     "open_issues_count": 26,
     "forks_count": 48
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 18279,
-    "open_issues_count": 576,
-    "forks_count": 1141
+    "stargazers_count": 18426,
+    "open_issues_count": 587,
+    "forks_count": 1150
   },
   {
     "full_name": "bergercookie/syncall",
-    "stargazers_count": 477,
+    "stargazers_count": 478,
     "open_issues_count": 8,
     "forks_count": 45
   },
@@ -74,48 +74,48 @@
   {
     "full_name": "convos-chat/convos",
     "stargazers_count": 1051,
-    "open_issues_count": 33,
-    "forks_count": 86
+    "open_issues_count": 35,
+    "forks_count": 85
   },
   {
     "full_name": "oupala/apaxy",
-    "stargazers_count": 1878,
+    "stargazers_count": 1883,
     "open_issues_count": 0,
     "forks_count": 258
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 212211,
+    "stargazers_count": 212789,
     "open_issues_count": 0,
-    "forks_count": 10074
+    "forks_count": 10094
   },
   {
     "full_name": "yourselfhosted/slash",
-    "stargazers_count": 2139,
+    "stargazers_count": 2152,
     "open_issues_count": 12,
     "forks_count": 109
   },
   {
     "full_name": "usememos/memos",
-    "stargazers_count": 36036,
+    "stargazers_count": 36166,
     "open_issues_count": 28,
-    "forks_count": 2579
+    "forks_count": 2589
   },
   {
     "full_name": "NixOS/nix",
-    "stargazers_count": 13321,
-    "open_issues_count": 3531,
-    "forks_count": 1568
+    "stargazers_count": 13361,
+    "open_issues_count": 3536,
+    "forks_count": 1570
   },
   {
     "full_name": "magit/emacsql",
-    "stargazers_count": 566,
+    "stargazers_count": 567,
     "open_issues_count": 0,
     "forks_count": 41
   },
   {
     "full_name": "Cay-Zhang/RSSBud",
-    "stargazers_count": 1346,
+    "stargazers_count": 1347,
     "open_issues_count": 7,
     "forks_count": 38
   },
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "positron-solutions/transient-showcase",
-    "stargazers_count": 226,
+    "stargazers_count": 230,
     "open_issues_count": 4,
     "forks_count": 22
   },
   {
     "full_name": "0atman/BrainMade-org",
-    "stargazers_count": 87,
+    "stargazers_count": 88,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "lem-project/lem",
-    "stargazers_count": 2503,
-    "open_issues_count": 161,
-    "forks_count": 190
+    "stargazers_count": 2520,
+    "open_issues_count": 162,
+    "forks_count": 191
   },
   {
     "full_name": "akhramov/org-wild-notifier.el",
-    "stargazers_count": 149,
+    "stargazers_count": 150,
     "open_issues_count": 13,
     "forks_count": 21
   },
   {
     "full_name": "alphapapa/org-ql",
-    "stargazers_count": 1449,
+    "stargazers_count": 1452,
     "open_issues_count": 155,
     "forks_count": 109
   },
   {
     "full_name": "koekeishiya/yabai",
-    "stargazers_count": 24605,
-    "open_issues_count": 227,
-    "forks_count": 654
+    "stargazers_count": 24636,
+    "open_issues_count": 228,
+    "forks_count": 656
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 4720,
-    "open_issues_count": 378,
+    "stargazers_count": 4733,
+    "open_issues_count": 383,
     "forks_count": 352
   }
 ]
