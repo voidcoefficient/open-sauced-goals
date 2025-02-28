@@ -1,27 +1,69 @@
 [
   {
+    "full_name": "mhinz/neovim-remote",
+    "stargazers_count": 1805,
+    "open_issues_count": 32,
+    "forks_count": 82
+  },
+  {
+    "full_name": "rmagatti/auto-session",
+    "stargazers_count": 1433,
+    "open_issues_count": 19,
+    "forks_count": 50
+  },
+  {
+    "full_name": "folke/persistence.nvim",
+    "stargazers_count": 749,
+    "open_issues_count": 4,
+    "forks_count": 29
+  },
+  {
+    "full_name": "zschreur/telescope-jj.nvim",
+    "stargazers_count": 8,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "willothy/flatten.nvim",
+    "stargazers_count": 574,
+    "open_issues_count": 6,
+    "forks_count": 13
+  },
+  {
+    "full_name": "idursun/jjui",
+    "stargazers_count": 47,
+    "open_issues_count": 3,
+    "forks_count": 5
+  },
+  {
+    "full_name": "madler/zlib",
+    "stargazers_count": 6002,
+    "open_issues_count": 260,
+    "forks_count": 2516
+  },
+  {
     "full_name": "charmbracelet/soft-serve",
-    "stargazers_count": 5663,
-    "open_issues_count": 52,
+    "stargazers_count": 5675,
+    "open_issues_count": 53,
     "forks_count": 152
   },
   {
     "full_name": "qjcg/awesome-typst",
-    "stargazers_count": 2531,
+    "stargazers_count": 2543,
     "open_issues_count": 14,
     "forks_count": 130
   },
   {
     "full_name": "typst/typst",
-    "stargazers_count": 37890,
-    "open_issues_count": 762,
-    "forks_count": 1030
+    "stargazers_count": 37988,
+    "open_issues_count": 756,
+    "forks_count": 1034
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 32581,
-    "open_issues_count": 288,
-    "forks_count": 3346
+    "stargazers_count": 34322,
+    "open_issues_count": 311,
+    "forks_count": 3498
   },
   {
     "full_name": "otavioschwanck/harpoon.el",
@@ -32,44 +74,44 @@
   {
     "full_name": "nextcloud/deck",
     "stargazers_count": 1253,
-    "open_issues_count": 654,
-    "forks_count": 285
+    "open_issues_count": 645,
+    "forks_count": 286
   },
   {
     "full_name": "Leantime/leantime",
-    "stargazers_count": 5096,
-    "open_issues_count": 216,
-    "forks_count": 621
+    "stargazers_count": 5107,
+    "open_issues_count": 218,
+    "forks_count": 622
   },
   {
     "full_name": "freeplane/freeplane",
-    "stargazers_count": 2862,
-    "open_issues_count": 353,
-    "forks_count": 371
+    "stargazers_count": 2868,
+    "open_issues_count": 354,
+    "forks_count": 373
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 32528,
-    "open_issues_count": 437,
-    "forks_count": 1957
+    "stargazers_count": 32657,
+    "open_issues_count": 441,
+    "forks_count": 1966
   },
   {
     "full_name": "chentoast/marks.nvim",
-    "stargazers_count": 958,
+    "stargazers_count": 959,
     "open_issues_count": 49,
     "forks_count": 49
   },
   {
     "full_name": "L3MON4D3/LuaSnip",
-    "stargazers_count": 3706,
-    "open_issues_count": 108,
-    "forks_count": 246
+    "stargazers_count": 3717,
+    "open_issues_count": 109,
+    "forks_count": 247
   },
   {
     "full_name": "rust-cli/config-rs",
-    "stargazers_count": 2773,
+    "stargazers_count": 2774,
     "open_issues_count": 124,
-    "forks_count": 223
+    "forks_count": 224
   },
   {
     "full_name": "rust-cli/confy",
@@ -85,7 +127,7 @@
   },
   {
     "full_name": "rothgar/awesome-tmux",
-    "stargazers_count": 8149,
+    "stargazers_count": 8153,
     "open_issues_count": 1,
     "forks_count": 316
   },
@@ -115,68 +157,26 @@
   },
   {
     "full_name": "sebglazebrook/aliases",
-    "stargazers_count": 584,
+    "stargazers_count": 583,
     "open_issues_count": 16,
     "forks_count": 36
   },
   {
     "full_name": "ggreer/the_silver_searcher",
-    "stargazers_count": 26370,
+    "stargazers_count": 26375,
     "open_issues_count": 560,
     "forks_count": 1433
   },
   {
     "full_name": "facundoolano/software-papers",
-    "stargazers_count": 5681,
+    "stargazers_count": 5684,
     "open_issues_count": 3,
-    "forks_count": 272
+    "forks_count": 273
   },
   {
     "full_name": "codicocodes/dotfyle",
-    "stargazers_count": 895,
+    "stargazers_count": 894,
     "open_issues_count": 43,
-    "forks_count": 34
-  },
-  {
-    "full_name": "nvim-neorg/neorg",
-    "stargazers_count": 6709,
-    "open_issues_count": 196,
-    "forks_count": 222
-  },
-  {
-    "full_name": "jj-vcs/jj",
-    "stargazers_count": 11545,
-    "open_issues_count": 552,
-    "forks_count": 406
-  },
-  {
-    "full_name": "tschaefer/taskwarrior-calendar",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "valkey-io/valkey",
-    "stargazers_count": 19083,
-    "open_issues_count": 356,
-    "forks_count": 729
-  },
-  {
-    "full_name": "idimetrix/cv",
-    "stargazers_count": 90,
-    "open_issues_count": 0,
-    "forks_count": 13
-  },
-  {
-    "full_name": "confluentinc/kafka-streams-examples",
-    "stargazers_count": 95,
-    "open_issues_count": 18,
-    "forks_count": 1148
-  },
-  {
-    "full_name": "alphapapa/magit-todos",
-    "stargazers_count": 756,
-    "open_issues_count": 26,
-    "forks_count": 49
+    "forks_count": 35
   }
 ]
